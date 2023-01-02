@@ -6660,7 +6660,7 @@
     "index": 951,
     "city": "Nakuru",
     "country": "Kenya",
-    "lat": 0.3,
+    "lat": -0.2833,
     "lon": 36
   },
   {
@@ -6674,7 +6674,7 @@
     "index": 953,
     "city": "Mombasa",
     "country": "Kenya",
-    "lat": 4.04,
+    "lat": -4.04,
     "lon": 39.65
   }
 ]
