@@ -1,0 +1,5726 @@
+[
+ {
+   "city": "Adak",
+   "country": "United States",
+   "lat": 50,
+   "lon": -175
+ },
+ {
+   "city": "Honolulu",
+   "country": "United States",
+   "lat": 20,
+   "lon": -160
+ },
+ {
+   "city": "Barrow",
+   "country": "United States",
+   "lat": 70,
+   "lon": -155
+ },
+ {
+   "city": "Hilo",
+   "country": "United States",
+   "lat": 20,
+   "lon": -155
+ },
+ {
+   "city": "Anchorage",
+   "country": "United States",
+   "lat": 60,
+   "lon": -150
+ },
+ {
+   "city": "Deadhorse",
+   "country": "United States",
+   "lat": 70,
+   "lon": -150
+ },
+ {
+   "city": "Fairbanks",
+   "country": "United States",
+   "lat": 65,
+   "lon": -150
+ },
+ {
+   "city": "Sitka",
+   "country": "United States",
+   "lat": 55,
+   "lon": -135
+ },
+ {
+   "city": "Whitehorse",
+   "country": "Canada",
+   "lat": 60,
+   "lon": -135
+ },
+ {
+   "city": "Juneau",
+   "country": "United States",
+   "lat": 60,
+   "lon": -135
+ },
+ {
+   "city": "Tuktoyaktuk",
+   "country": "Canada",
+   "lat": 70,
+   "lon": -135
+ },
+ {
+   "city": "Victoria",
+   "country": "Canada",
+   "lat": 50,
+   "lon": -125
+ },
+ {
+   "city": "Vancouver",
+   "country": "Canada",
+   "lat": 50,
+   "lon": -125
+ },
+ {
+   "city": "Portland",
+   "country": "United States",
+   "lat": 45,
+   "lon": -125
+ },
+ {
+   "city": "San Francisco",
+   "country": "United States",
+   "lat": 40,
+   "lon": -120
+ },
+ {
+   "city": "Seattle",
+   "country": "United States",
+   "lat": 50,
+   "lon": -120
+ },
+ {
+   "city": "Sacramento",
+   "country": "United States",
+   "lat": 40,
+   "lon": -120
+ },
+ {
+   "city": "Kamloops",
+   "country": "Canada",
+   "lat": 50,
+   "lon": -120
+ },
+ {
+   "city": "Reno",
+   "country": "United States",
+   "lat": 40,
+   "lon": -120
+ },
+ {
+   "city": "Santa Barbara",
+   "country": "United States",
+   "lat": 35,
+   "lon": -120
+ },
+ {
+   "city": "Kelowna",
+   "country": "Canada",
+   "lat": 50,
+   "lon": -120
+ },
+ {
+   "city": "Grande Prairie",
+   "country": "Canada",
+   "lat": 55,
+   "lon": -120
+ },
+ {
+   "city": "Los Angeles",
+   "country": "United States",
+   "lat": 35,
+   "lon": -120
+ },
+ {
+   "city": "Riverside",
+   "country": "United States",
+   "lat": 35,
+   "lon": -115
+ },
+ {
+   "city": "San Diego",
+   "country": "United States",
+   "lat": 35,
+   "lon": -115
+ },
+ {
+   "city": "Tijuana",
+   "country": "Mexico",
+   "lat": 35,
+   "lon": -115
+ },
+ {
+   "city": "Ensenada",
+   "country": "Mexico",
+   "lat": 30,
+   "lon": -115
+ },
+ {
+   "city": "Boise",
+   "country": "United States",
+   "lat": 45,
+   "lon": -115
+ },
+ {
+   "city": "Mexicali",
+   "country": "Mexico",
+   "lat": 35,
+   "lon": -115
+ },
+ {
+   "city": "Las Vegas",
+   "country": "United States",
+   "lat": 35,
+   "lon": -115
+ },
+ {
+   "city": "Yellowknife",
+   "country": "Canada",
+   "lat": 60,
+   "lon": -115
+ },
+ {
+   "city": "Calgary",
+   "country": "Canada",
+   "lat": 50,
+   "lon": -115
+ },
+ {
+   "city": "Edmonton",
+   "country": "Canada",
+   "lat": 55,
+   "lon": -115
+ },
+ {
+   "city": "Phoenix",
+   "country": "United States",
+   "lat": 35,
+   "lon": -110
+ },
+ {
+   "city": "Helena",
+   "country": "United States",
+   "lat": 45,
+   "lon": -110
+ },
+ {
+   "city": "Salt Lake City",
+   "country": "United States",
+   "lat": 40,
+   "lon": -110
+ },
+ {
+   "city": "Fort McMurray",
+   "country": "Canada",
+   "lat": 55,
+   "lon": -110
+ },
+ {
+   "city": "Hermosillo",
+   "country": "Mexico",
+   "lat": 30,
+   "lon": -110
+ },
+ {
+   "city": "Tucson",
+   "country": "United States",
+   "lat": 30,
+   "lon": -110
+ },
+ {
+   "city": "Cabo San Lucas",
+   "country": "Mexico",
+   "lat": 25,
+   "lon": -110
+ },
+ {
+   "city": "Culiacán",
+   "country": "Mexico",
+   "lat": 25,
+   "lon": -105
+ },
+ {
+   "city": "Saskatoon",
+   "country": "Canada",
+   "lat": 50,
+   "lon": -105
+ },
+ {
+   "city": "Albuquerque",
+   "country": "United States",
+   "lat": 35,
+   "lon": -105
+ },
+ {
+   "city": "Ciudad Juárez",
+   "country": "Mexico",
+   "lat": 30,
+   "lon": -105
+ },
+ {
+   "city": "El Paso",
+   "country": "United States",
+   "lat": 30,
+   "lon": -105
+ },
+ {
+   "city": "Los Alamos",
+   "country": "United States",
+   "lat": 35,
+   "lon": -105
+ },
+ {
+   "city": "Chihuahua",
+   "country": "Mexico",
+   "lat": 30,
+   "lon": -105
+ },
+ {
+   "city": "Santa Fe",
+   "country": "United States",
+   "lat": 35,
+   "lon": -105
+ },
+ {
+   "city": "Boulder",
+   "country": "United States",
+   "lat": 40,
+   "lon": -105
+ },
+ {
+   "city": "Puerto Vallarta",
+   "country": "Mexico",
+   "lat": 20,
+   "lon": -105
+ },
+ {
+   "city": "Denver",
+   "country": "United States",
+   "lat": 40,
+   "lon": -105
+ },
+ {
+   "city": "Cheyenne",
+   "country": "United States",
+   "lat": 40,
+   "lon": -105
+ },
+ {
+   "city": "Durango",
+   "country": "Mexico",
+   "lat": 25,
+   "lon": -105
+ },
+ {
+   "city": "Regina",
+   "country": "Canada",
+   "lat": 50,
+   "lon": -105
+ },
+ {
+   "city": "Torreón",
+   "country": "Mexico",
+   "lat": 25,
+   "lon": -105
+ },
+ {
+   "city": "Zapopan",
+   "country": "Mexico",
+   "lat": 20,
+   "lon": -105
+ },
+ {
+   "city": "Guadalajara",
+   "country": "Mexico",
+   "lat": 20,
+   "lon": -105
+ },
+ {
+   "city": "Aguascalientes",
+   "country": "Mexico",
+   "lat": 20,
+   "lon": -100
+ },
+ {
+   "city": "León",
+   "country": "Mexico",
+   "lat": 20,
+   "lon": -100
+ },
+ {
+   "city": "San Luis Potosí",
+   "country": "Mexico",
+   "lat": 20,
+   "lon": -100
+ },
+ {
+   "city": "Bismarck",
+   "country": "United States",
+   "lat": 45,
+   "lon": -100
+ },
+ {
+   "city": "Querétaro",
+   "country": "Mexico",
+   "lat": 20,
+   "lon": -100
+ },
+ {
+   "city": "Pierre",
+   "country": "United States",
+   "lat": 45,
+   "lon": -100
+ },
+ {
+   "city": "Monterrey",
+   "country": "Mexico",
+   "lat": 25,
+   "lon": -100
+ },
+ {
+   "city": "Acapulco",
+   "country": "Mexico",
+   "lat": 15,
+   "lon": -100
+ },
+ {
+   "city": "Mexico City Mexico City",
+   "country": "Mexico",
+   "lat": 20,
+   "lon": -100
+ },
+ {
+   "city": "San Antonio",
+   "country": "United States",
+   "lat": 30,
+   "lon": -100
+ },
+ {
+   "city": "Puebla",
+   "country": "Mexico",
+   "lat": 20,
+   "lon": -100
+ },
+ {
+   "city": "Tampico",
+   "country": "Mexico",
+   "lat": 20,
+   "lon": -100
+ },
+ {
+   "city": "Austin",
+   "country": "United States",
+   "lat": 30,
+   "lon": -100
+ },
+ {
+   "city": "Oklahoma City",
+   "country": "United States",
+   "lat": 35,
+   "lon": -100
+ },
+ {
+   "city": "Wichita",
+   "country": "United States",
+   "lat": 40,
+   "lon": -95
+ },
+ {
+   "city": "Winnipeg",
+   "country": "Canada",
+   "lat": 50,
+   "lon": -95
+ },
+ {
+   "city": "Dallas",
+   "country": "United States",
+   "lat": 35,
+   "lon": -95
+ },
+ {
+   "city": "Lincoln",
+   "country": "United States",
+   "lat": 40,
+   "lon": -95
+ },
+ {
+   "city": "Veracruz",
+   "country": "Mexico",
+   "lat": 20,
+   "lon": -95
+ },
+ {
+   "city": "Tulsa",
+   "country": "United States",
+   "lat": 35,
+   "lon": -95
+ },
+ {
+   "city": "Houston",
+   "country": "United States",
+   "lat": 30,
+   "lon": -95
+ },
+ {
+   "city": "Kansas City",
+   "country": "United States",
+   "lat": 40,
+   "lon": -95
+ },
+ {
+   "city": "Des Moines",
+   "country": "United States",
+   "lat": 40,
+   "lon": -95
+ },
+ {
+   "city": "Springfield",
+   "country": "United States",
+   "lat": 35,
+   "lon": -95
+ },
+ {
+   "city": "Minneapolis",
+   "country": "United States",
+   "lat": 45,
+   "lon": -95
+ },
+ {
+   "city": "Little Rock",
+   "country": "United States",
+   "lat": 35,
+   "lon": -90
+ },
+ {
+   "city": "Tapachula",
+   "country": "Mexico",
+   "lat": 15,
+   "lon": -90
+ },
+ {
+   "city": "Quetzaltenango",
+   "country": "Guatemala",
+   "lat": 15,
+   "lon": -90
+ },
+ {
+   "city": "Guatemala City",
+   "country": "Guatemala",
+   "lat": 15,
+   "lon": -90
+ },
+ {
+   "city": "St. Louis",
+   "country": "United States",
+   "lat": 40,
+   "lon": -90
+ },
+ {
+   "city": "Jackson",
+   "country": "United States",
+   "lat": 30,
+   "lon": -90
+ },
+ {
+   "city": "New Orleans",
+   "country": "United States",
+   "lat": 30,
+   "lon": -90
+ },
+ {
+   "city": "Memphis",
+   "country": "United States",
+   "lat": 35,
+   "lon": -90
+ },
+ {
+   "city": "Mérida",
+   "country": "Mexico",
+   "lat": 20,
+   "lon": -90
+ },
+ {
+   "city": "Thunder Bay",
+   "country": "Canada",
+   "lat": 50,
+   "lon": -90
+ },
+ {
+   "city": "San Salvador",
+   "country": "El Salvador",
+   "lat": 15,
+   "lon": -90
+ },
+ {
+   "city": "Belmopan",
+   "country": "Belize",
+   "lat": 15,
+   "lon": -90
+ },
+ {
+   "city": "Belize City",
+   "country": "Belize",
+   "lat": 20,
+   "lon": -90
+ },
+ {
+   "city": "Mobile",
+   "country": "United States",
+   "lat": 30,
+   "lon": -90
+ },
+ {
+   "city": "Milwaukee",
+   "country": "United States",
+   "lat": 45,
+   "lon": -90
+ },
+ {
+   "city": "Chicago",
+   "country": "United States",
+   "lat": 40,
+   "lon": -90
+ },
+ {
+   "city": "Tegucigalpa",
+   "country": "Honduras",
+   "lat": 15,
+   "lon": -85
+ },
+ {
+   "city": "Chinandega",
+   "country": "Nicaragua",
+   "lat": 15,
+   "lon": -85
+ },
+ {
+   "city": "Cancún",
+   "country": "Mexico",
+   "lat": 20,
+   "lon": -85
+ },
+ {
+   "city": "Birmingham",
+   "country": "United States",
+   "lat": 35,
+   "lon": -85
+ },
+ {
+   "city": "Nashville",
+   "country": "United States",
+   "lat": 35,
+   "lon": -85
+ },
+ {
+   "city": "Managua",
+   "country": "Nicaragua",
+   "lat": 10,
+   "lon": -85
+ },
+ {
+   "city": "Indianapolis",
+   "country": "United States",
+   "lat": 40,
+   "lon": -85
+ },
+ {
+   "city": "Eureka",
+   "country": "Canada",
+   "lat": 80,
+   "lon": -85
+ },
+ {
+   "city": "Louisville",
+   "country": "United States",
+   "lat": 40,
+   "lon": -85
+ },
+ {
+   "city": "Liberia",
+   "country": "Costa Rica",
+   "lat": 10,
+   "lon": -85
+ },
+ {
+   "city": "Fort Wayne",
+   "country": "United States",
+   "lat": 40,
+   "lon": -85
+ },
+ {
+   "city": "Puntarenas",
+   "country": "Costa Rica",
+   "lat": 10,
+   "lon": -85
+ },
+ {
+   "city": "Cincinnati",
+   "country": "United States",
+   "lat": 40,
+   "lon": -85
+ },
+ {
+   "city": "Atlanta",
+   "country": "United States",
+   "lat": 35,
+   "lon": -85
+ },
+ {
+   "city": "Sault Ste. Marie",
+   "country": "Canada",
+   "lat": 45,
+   "lon": -85
+ },
+ {
+   "city": "Alajuela",
+   "country": "Costa Rica",
+   "lat": 10,
+   "lon": -85
+ },
+ {
+   "city": "San José",
+   "country": "Costa Rica",
+   "lat": 10,
+   "lon": -85
+ },
+ {
+   "city": "Knoxville",
+   "country": "United States",
+   "lat": 35,
+   "lon": -85
+ },
+ {
+   "city": "Detroit",
+   "country": "United States",
+   "lat": 40,
+   "lon": -85
+ },
+ {
+   "city": "Limón",
+   "country": "Costa Rica",
+   "lat": 10,
+   "lon": -85
+ },
+ {
+   "city": "Windsor",
+   "country": "Canada",
+   "lat": 40,
+   "lon": -85
+ },
+ {
+   "city": "Columbus",
+   "country": "United States",
+   "lat": 40,
+   "lon": -85
+ },
+ {
+   "city": "Grise Fiord",
+   "country": "Canada",
+   "lat": 75,
+   "lon": -85
+ },
+ {
+   "city": "Tampa",
+   "country": "United States",
+   "lat": 30,
+   "lon": -80
+ },
+ {
+   "city": "Havana",
+   "country": "Cuba",
+   "lat": 25,
+   "lon": -80
+ },
+ {
+   "city": "Key West",
+   "country": "United States",
+   "lat": 25,
+   "lon": -80
+ },
+ {
+   "city": "Cleveland",
+   "country": "United States",
+   "lat": 40,
+   "lon": -80
+ },
+ {
+   "city": "Jacksonville",
+   "country": "United States",
+   "lat": 30,
+   "lon": -80
+ },
+ {
+   "city": "Charleston",
+   "country": "United States",
+   "lat": 40,
+   "lon": -80
+ },
+ {
+   "city": "George Town",
+   "country": "United Kingdom",
+   "lat": 20,
+   "lon": -80
+ },
+ {
+   "city": "Orlando",
+   "country": "United States",
+   "lat": 30,
+   "lon": -80
+ },
+ {
+   "city": "Columbia",
+   "country": "United States",
+   "lat": 35,
+   "lon": -80
+ },
+ {
+   "city": "Sudbury",
+   "country": "Canada",
+   "lat": 45,
+   "lon": -80
+ },
+ {
+   "city": "Charlotte",
+   "country": "United States",
+   "lat": 35,
+   "lon": -80
+ },
+ {
+   "city": "Miami",
+   "country": "United States",
+   "lat": 25,
+   "lon": -80
+ },
+ {
+   "city": "Pittsburgh",
+   "country": "United States",
+   "lat": 40,
+   "lon": -80
+ },
+ {
+   "city": "Panama City",
+   "country": "Panama",
+   "lat": 10,
+   "lon": -80
+ },
+ {
+   "city": "North Bay",
+   "country": "Canada",
+   "lat": 45,
+   "lon": -80
+ },
+ {
+   "city": "Toronto",
+   "country": "Canada",
+   "lat": 45,
+   "lon": -80
+ },
+ {
+   "city": "Buffalo",
+   "country": "United States",
+   "lat": 45,
+   "lon": -80
+ },
+ {
+   "city": "Raleigh",
+   "country": "United States",
+   "lat": 35,
+   "lon": -80
+ },
+ {
+   "city": "Wilmington",
+   "country": "United States",
+   "lat": 35,
+   "lon": -80
+ },
+ {
+   "city": "Rochester",
+   "country": "United States",
+   "lat": 45,
+   "lon": -80
+ },
+ {
+   "city": "Nassau",
+   "country": "Bahamas",
+   "lat": 25,
+   "lon": -75
+ },
+ {
+   "city": "Washington",
+   "country": "United States",
+   "lat": 40,
+   "lon": -75
+ },
+ {
+   "city": "Kingston",
+   "country": "Jamaica",
+   "lat": 20,
+   "lon": -75
+ },
+ {
+   "city": "Baltimore",
+   "country": "United States",
+   "lat": 40,
+   "lon": -75
+ },
+ {
+   "city": "Santiago de Cali",
+   "country": "Colombia",
+   "lat": 5,
+   "lon": -75
+ },
+ {
+   "city": "Virginia Beach",
+   "country": "United States",
+   "lat": 35,
+   "lon": -75
+ },
+ {
+   "city": "Santiago de Cuba",
+   "country": "Cuba",
+   "lat": 20,
+   "lon": -75
+ },
+ {
+   "city": "Ottawa",
+   "country": "Canada",
+   "lat": 45,
+   "lon": -75
+ },
+ {
+   "city": "Medellín",
+   "country": "Colombia",
+   "lat": 5,
+   "lon": -75
+ },
+ {
+   "city": "Dover",
+   "country": "United States",
+   "lat": 40,
+   "lon": -75
+ },
+ {
+   "city": "Cartagena",
+   "country": "Colombia",
+   "lat": 10,
+   "lon": -75
+ },
+ {
+   "city": "Philadelphia",
+   "country": "United States",
+   "lat": 40,
+   "lon": -75
+ },
+ {
+   "city": "Barranquilla",
+   "country": "Colombia",
+   "lat": 10,
+   "lon": -75
+ },
+ {
+   "city": "Trenton",
+   "country": "United States",
+   "lat": 40,
+   "lon": -75
+ },
+ {
+   "city": "Forked River",
+   "country": "United States",
+   "lat": 40,
+   "lon": -75
+ },
+ {
+   "city": "Bogotá",
+   "country": "Colombia",
+   "lat": 5,
+   "lon": -75
+ },
+ {
+   "city": "Jersey City",
+   "country": "United States",
+   "lat": 40,
+   "lon": -75
+ },
+ {
+   "city": "New York City",
+   "country": "United States",
+   "lat": 40,
+   "lon": -75
+ },
+ {
+   "city": "Montreal",
+   "country": "Canada",
+   "lat": 45,
+   "lon": -75
+ },
+ {
+   "city": "Hartford",
+   "country": "United States",
+   "lat": 40,
+   "lon": -75
+ },
+ {
+   "city": "Montpelier",
+   "country": "United States",
+   "lat": 45,
+   "lon": -75
+ },
+ {
+   "city": "Cúcuta",
+   "country": "Colombia",
+   "lat": 10,
+   "lon": -75
+ },
+ {
+   "city": "Port-au-Prince",
+   "country": "Haiti",
+   "lat": 20,
+   "lon": -70
+ },
+ {
+   "city": "Maracaibo",
+   "country": "Venezuela",
+   "lat": 10,
+   "lon": -70
+ },
+ {
+   "city": "Concord",
+   "country": "United States",
+   "lat": 45,
+   "lon": -70
+ },
+ {
+   "city": "Providence",
+   "country": "United States",
+   "lat": 40,
+   "lon": -70
+ },
+ {
+   "city": "Quebec City",
+   "country": "Canada",
+   "lat": 45,
+   "lon": -70
+ },
+ {
+   "city": "Cockburn Town",
+   "country": "United Kingdom",
+   "lat": 20,
+   "lon": -70
+ },
+ {
+   "city": "Boston",
+   "country": "United States",
+   "lat": 40,
+   "lon": -70
+ },
+ {
+   "city": "Oranjestad",
+   "country": "Netherlands",
+   "lat": 15,
+   "lon": -70
+ },
+ {
+   "city": "Santo Domingo",
+   "country": "Dominican Republic",
+   "lat": 20,
+   "lon": -70
+ },
+ {
+   "city": "Augusta",
+   "country": "United States",
+   "lat": 45,
+   "lon": -70
+ },
+ {
+   "city": "Qaanaaq",
+   "country": "Denmark",
+   "lat": 75,
+   "lon": -70
+ },
+ {
+   "city": "Willemstad",
+   "country": "Netherlands",
+   "lat": 10,
+   "lon": -70
+ },
+ {
+   "city": "Iqaluit",
+   "country": "Canada",
+   "lat": 65,
+   "lon": -70
+ },
+ {
+   "city": "Puerto Ayacucho",
+   "country": "Venezuela",
+   "lat": 5,
+   "lon": -70
+ },
+ {
+   "city": "Maracay",
+   "country": "Venezuela",
+   "lat": 10,
+   "lon": -70
+ },
+ {
+   "city": "Caracas",
+   "country": "Venezuela",
+   "lat": 10,
+   "lon": -65
+ },
+ {
+   "city": "Fredericton",
+   "country": "Canada",
+   "lat": 45,
+   "lon": -65
+ },
+ {
+   "city": "Yarmouth",
+   "country": "Canada",
+   "lat": 45,
+   "lon": -65
+ },
+ {
+   "city": "Saint John",
+   "country": "Canada",
+   "lat": 45,
+   "lon": -65
+ },
+ {
+   "city": "San Juan",
+   "country": "United States",
+   "lat": 20,
+   "lon": -65
+ },
+ {
+   "city": "Charlotte Amalie",
+   "country": "United States",
+   "lat": 20,
+   "lon": -65
+ },
+ {
+   "city": "Hamilton",
+   "country": "United Kingdom",
+   "lat": 30,
+   "lon": -65
+ },
+ {
+   "city": "Moncton",
+   "country": "Canada",
+   "lat": 45,
+   "lon": -65
+ },
+ {
+   "city": "Road Town",
+   "country": "United Kingdom",
+   "lat": 20,
+   "lon": -65
+ },
+ {
+   "city": "Ciudad Bolívar",
+   "country": "Venezuela",
+   "lat": 10,
+   "lon": -65
+ },
+ {
+   "city": "Halifax",
+   "country": "Canada",
+   "lat": 45,
+   "lon": -65
+ },
+ {
+   "city": "Charlottetown",
+   "country": "Canada",
+   "lat": 45,
+   "lon": -65
+ },
+ {
+   "city": "The Valley",
+   "country": "United Kingdom",
+   "lat": 20,
+   "lon": -65
+ },
+ {
+   "city": "Basseterre",
+   "country": "Saint Kitts and Nevis",
+   "lat": 15,
+   "lon": -65
+ },
+ {
+   "city": "Alert",
+   "country": "Canada",
+   "lat": 85,
+   "lon": -60
+ },
+ {
+   "city": "St. John's",
+   "country": "Antigua and Barbuda",
+   "lat": 15,
+   "lon": -60
+ },
+ {
+   "city": "St. George's",
+   "country": "Grenada",
+   "lat": 10,
+   "lon": -60
+ },
+ {
+   "city": "Basse-Terre",
+   "country": "France",
+   "lat": 15,
+   "lon": -60
+ },
+ {
+   "city": "Port of Spain",
+   "country": "Trinidad and Tobago",
+   "lat": 10,
+   "lon": -60
+ },
+ {
+   "city": "San Fernando",
+   "country": "Trinidad and Tobago",
+   "lat": 10,
+   "lon": -60
+ },
+ {
+   "city": "Roseau",
+   "country": "Dominica",
+   "lat": 15,
+   "lon": -60
+ },
+ {
+   "city": "Chaguanas",
+   "country": "Trinidad and Tobago",
+   "lat": 10,
+   "lon": -60
+ },
+ {
+   "city": "Kingstown",
+   "country": "Saint Vincent and the Grenadines",
+   "lat": 15,
+   "lon": -60
+ },
+ {
+   "city": "Fort-de-France",
+   "country": "France",
+   "lat": 15,
+   "lon": -60
+ },
+ {
+   "city": "Castries",
+   "country": "Saint Lucia",
+   "lat": 15,
+   "lon": -60
+ },
+ {
+   "city": "Boa Vista",
+   "country": "Brazil",
+   "lat": 5,
+   "lon": -60
+ },
+ {
+   "city": "Bridgetown",
+   "country": "Barbados",
+   "lat": 15,
+   "lon": -60
+ },
+ {
+   "city": "Georgetown",
+   "country": "Guyana",
+   "lat": 5,
+   "lon": -60
+ },
+ {
+   "city": "Saint-Pierre",
+   "country": "France",
+   "lat": 45,
+   "lon": -55
+ },
+ {
+   "city": "Upernavik",
+   "country": "Denmark",
+   "lat": 75,
+   "lon": -55
+ },
+ {
+   "city": "Paramaribo",
+   "country": "Suriname",
+   "lat": 5,
+   "lon": -55
+ },
+ {
+   "city": "St. John's",
+   "country": "Canada",
+   "lat": 50,
+   "lon": -55
+ },
+ {
+   "city": "Cayenne",
+   "country": "France",
+   "lat": 5,
+   "lon": -50
+ },
+ {
+   "city": "Nuuk (Godthåb)",
+   "country": "Denmark",
+   "lat": 65,
+   "lon": -50
+ },
+ {
+   "city": "Macapá",
+   "country": "Brazil",
+   "lat": 0,
+   "lon": -50
+ },
+ {
+   "city": "Qaqortoq",
+   "country": "Denmark",
+   "lat": 60,
+   "lon": -45
+ },
+ {
+   "city": "Flores Island",
+   "country": "Portugal",
+   "lat": 40,
+   "lon": -30
+ },
+ {
+   "city": "Horta",
+   "country": "Portugal",
+   "lat": 40,
+   "lon": -30
+ },
+ {
+   "city": "Angra do Heroísmo",
+   "country": "Portugal",
+   "lat": 40,
+   "lon": -25
+ },
+ {
+   "city": "Ponta Delgada",
+   "country": "Portugal",
+   "lat": 40,
+   "lon": -25
+ },
+ {
+   "city": "Praia",
+   "country": "Cape Verde",
+   "lat": 15,
+   "lon": -25
+ },
+ {
+   "city": "Ísafjörður",
+   "country": "Iceland",
+   "lat": 65,
+   "lon": -25
+ },
+ {
+   "city": "Reykjavík",
+   "country": "Iceland",
+   "lat": 65,
+   "lon": -20
+ },
+ {
+   "city": "Akureyri",
+   "country": "Iceland",
+   "lat": 65,
+   "lon": -20
+ },
+ {
+   "city": "Dakar",
+   "country": "Senegal",
+   "lat": 15,
+   "lon": -15
+ },
+ {
+   "city": "Thiès",
+   "country": "Senegal",
+   "lat": 15,
+   "lon": -15
+ },
+ {
+   "city": "Funchal",
+   "country": "Portugal",
+   "lat": 35,
+   "lon": -15
+ },
+ {
+   "city": "Nord",
+   "country": "Denmark",
+   "lat": 80,
+   "lon": -15
+ },
+ {
+   "city": "Serekunda",
+   "country": "Gambia",
+   "lat": 15,
+   "lon": -15
+ },
+ {
+   "city": "Brikama",
+   "country": "Gambia",
+   "lat": 15,
+   "lon": -15
+ },
+ {
+   "city": "Banjul",
+   "country": "Gambia",
+   "lat": 15,
+   "lon": -15
+ },
+ {
+   "city": "Santa Cruz de Tenerife",
+   "country": "Spain",
+   "lat": 30,
+   "lon": -15
+ },
+ {
+   "city": "Nouakchott",
+   "country": "Mauritania",
+   "lat": 20,
+   "lon": -15
+ },
+ {
+   "city": "Bissau",
+   "country": "Guinea-Bissau",
+   "lat": 10,
+   "lon": -15
+ },
+ {
+   "city": "Las Palmas de Gran Canaria",
+   "country": "Spain",
+   "lat": 30,
+   "lon": -15
+ },
+ {
+   "city": "Conakry",
+   "country": "Guinea",
+   "lat": 10,
+   "lon": -15
+ },
+ {
+   "city": "Freetown",
+   "country": "Sierra Leone",
+   "lat": 10,
+   "lon": -15
+ },
+ {
+   "city": "El Aaiún",
+   "country": "Morocco",
+   "lat": 25,
+   "lon": -15
+ },
+ {
+   "city": "Monrovia",
+   "country": "Liberia",
+   "lat": 5,
+   "lon": -10
+ },
+ {
+   "city": "Lisbon",
+   "country": "Portugal",
+   "lat": 40,
+   "lon": -10
+ },
+ {
+   "city": "Nzérékoré",
+   "country": "Guinea",
+   "lat": 10,
+   "lon": -10
+ },
+ {
+   "city": "Porto",
+   "country": "Portugal",
+   "lat": 40,
+   "lon": -10
+ },
+ {
+   "city": "Cork",
+   "country": "Ireland",
+   "lat": 50,
+   "lon": -10
+ },
+ {
+   "city": "Marrakech",
+   "country": "Morocco",
+   "lat": 30,
+   "lon": -10
+ },
+ {
+   "city": "Bamako",
+   "country": "Mali",
+   "lat": 15,
+   "lon": -10
+ },
+ {
+   "city": "Casablanca",
+   "country": "Morocco",
+   "lat": 35,
+   "lon": -10
+ },
+ {
+   "city": "Koulikoro",
+   "country": "Mali",
+   "lat": 15,
+   "lon": -10
+ },
+ {
+   "city": "Rabat",
+   "country": "Morocco",
+   "lat": 35,
+   "lon": -5
+ },
+ {
+   "city": "Tórshavn",
+   "country": "Denmark",
+   "lat": 60,
+   "lon": -5
+ },
+ {
+   "city": "Dublin",
+   "country": "Ireland",
+   "lat": 55,
+   "lon": -5
+ },
+ {
+   "city": "Sevilla",
+   "country": "Spain",
+   "lat": 35,
+   "lon": -5
+ },
+ {
+   "city": "Belfast",
+   "country": "United Kingdom",
+   "lat": 55,
+   "lon": -5
+ },
+ {
+   "city": "Gibraltar",
+   "country": "United Kingdom",
+   "lat": 35,
+   "lon": -5
+ },
+ {
+   "city": "Yamoussoukro",
+   "country": "Ivory Coast",
+   "lat": 5,
+   "lon": -5
+ },
+ {
+   "city": "Douglas",
+   "country": "United Kingdom",
+   "lat": 55,
+   "lon": -5
+ },
+ {
+   "city": "Brest",
+   "country": "France",
+   "lat": 50,
+   "lon": -5
+ },
+ {
+   "city": "Málaga",
+   "country": "Spain",
+   "lat": 35,
+   "lon": -5
+ },
+ {
+   "city": "Bobo-Dioulasso",
+   "country": "Burkina Faso",
+   "lat": 10,
+   "lon": -5
+ },
+ {
+   "city": "Glasgow",
+   "country": "United Kingdom",
+   "lat": 55,
+   "lon": -5
+ },
+ {
+   "city": "Inverness",
+   "country": "United Kingdom",
+   "lat": 55,
+   "lon": -5
+ },
+ {
+   "city": "Plymouth",
+   "country": "United Kingdom",
+   "lat": 50,
+   "lon": -5
+ },
+ {
+   "city": "Abidjan",
+   "country": "Ivory Coast",
+   "lat": 5,
+   "lon": -5
+ },
+ {
+   "city": "Swansea",
+   "country": "United Kingdom",
+   "lat": 50,
+   "lon": -5
+ },
+ {
+   "city": "Madrid",
+   "country": "Spain",
+   "lat": 40,
+   "lon": -5
+ },
+ {
+   "city": "Exeter",
+   "country": "United Kingdom",
+   "lat": 50,
+   "lon": -5
+ },
+ {
+   "city": "Edinburgh",
+   "country": "United Kingdom",
+   "lat": 55,
+   "lon": -5
+ },
+ {
+   "city": "Cardiff",
+   "country": "United Kingdom",
+   "lat": 50,
+   "lon": -5
+ },
+ {
+   "city": "Timbuktu",
+   "country": "Mali",
+   "lat": 15,
+   "lon": -5
+ },
+ {
+   "city": "Liverpool",
+   "country": "United Kingdom",
+   "lat": 55,
+   "lon": -5
+ },
+ {
+   "city": "Dundee",
+   "country": "United Kingdom",
+   "lat": 55,
+   "lon": -5
+ },
+ {
+   "city": "Bilbao",
+   "country": "Spain",
+   "lat": 45,
+   "lon": -5
+ },
+ {
+   "city": "Bristol",
+   "country": "United Kingdom",
+   "lat": 50,
+   "lon": -5
+ },
+ {
+   "city": "Bath",
+   "country": "United Kingdom",
+   "lat": 50,
+   "lon": 0
+ },
+ {
+   "city": "Gloucester",
+   "country": "United Kingdom",
+   "lat": 50,
+   "lon": 0
+ },
+ {
+   "city": "Manchester",
+   "country": "United Kingdom",
+   "lat": 55,
+   "lon": 0
+ },
+ {
+   "city": "Aberdeen",
+   "country": "United Kingdom",
+   "lat": 55,
+   "lon": 0
+ },
+ {
+   "city": "Birmingham",
+   "country": "United Kingdom",
+   "lat": 50,
+   "lon": 0
+ },
+ {
+   "city": "Sekondi-Takoradi",
+   "country": "Ghana",
+   "lat": 5,
+   "lon": 0
+ },
+ {
+   "city": "Bradford",
+   "country": "United Kingdom",
+   "lat": 55,
+   "lon": 0
+ },
+ {
+   "city": "Kumasi",
+   "country": "Ghana",
+   "lat": 5,
+   "lon": 0
+ },
+ {
+   "city": "Newcastle upon Tyne",
+   "country": "United Kingdom",
+   "lat": 55,
+   "lon": 0
+ },
+ {
+   "city": "Nantes",
+   "country": "France",
+   "lat": 45,
+   "lon": 0
+ },
+ {
+   "city": "Leeds",
+   "country": "United Kingdom",
+   "lat": 55,
+   "lon": 0
+ },
+ {
+   "city": "Ouagadougou",
+   "country": "Burkina Faso",
+   "lat": 10,
+   "lon": 0
+ },
+ {
+   "city": "Coventry",
+   "country": "United Kingdom",
+   "lat": 50,
+   "lon": 0
+ },
+ {
+   "city": "Sheffield",
+   "country": "United Kingdom",
+   "lat": 55,
+   "lon": 0
+ },
+ {
+   "city": "Southampton",
+   "country": "United Kingdom",
+   "lat": 50,
+   "lon": 0
+ },
+ {
+   "city": "Oxford",
+   "country": "United Kingdom",
+   "lat": 50,
+   "lon": 0
+ },
+ {
+   "city": "Nottingham",
+   "country": "United Kingdom",
+   "lat": 55,
+   "lon": 0
+ },
+ {
+   "city": "Leicester",
+   "country": "United Kingdom",
+   "lat": 55,
+   "lon": 0
+ },
+ {
+   "city": "Portsmouth",
+   "country": "United Kingdom",
+   "lat": 50,
+   "lon": 0
+ },
+ {
+   "city": "Zaragoza",
+   "country": "Spain",
+   "lat": 40,
+   "lon": 0
+ },
+ {
+   "city": "Tamale",
+   "country": "Ghana",
+   "lat": 10,
+   "lon": 0
+ },
+ {
+   "city": "Bordeaux",
+   "country": "France",
+   "lat": 45,
+   "lon": 0
+ },
+ {
+   "city": "Valencia",
+   "country": "Spain",
+   "lat": 40,
+   "lon": 0
+ },
+ {
+   "city": "Peterborough",
+   "country": "United Kingdom",
+   "lat": 55,
+   "lon": 0
+ },
+ {
+   "city": "Accra",
+   "country": "Ghana",
+   "lat": 5,
+   "lon": 0
+ },
+ {
+   "city": "Brighton and Hove",
+   "country": "United Kingdom",
+   "lat": 50,
+   "lon": 0
+ },
+ {
+   "city": "London",
+   "country": "United Kingdom",
+   "lat": 50,
+   "lon": 0
+ },
+ {
+   "city": "Greenwich",
+   "country": "United Kingdom",
+   "lat": 50,
+   "lon": 0
+ },
+ {
+   "city": "Le Havre",
+   "country": "France",
+   "lat": 50,
+   "lon": 0
+ },
+ {
+   "city": "Cambridge",
+   "country": "United Kingdom",
+   "lat": 50,
+   "lon": 0
+ },
+ {
+   "city": "Lleida",
+   "country": "Spain",
+   "lat": 40,
+   "lon": 0
+ },
+ {
+   "city": "Rouen",
+   "country": "France",
+   "lat": 50,
+   "lon": 0
+ },
+ {
+   "city": "Lomé",
+   "country": "Togo",
+   "lat": 5,
+   "lon": 0
+ },
+ {
+   "city": "Norwich",
+   "country": "United Kingdom",
+   "lat": 55,
+   "lon": 0
+ },
+ {
+   "city": "Tiaret",
+   "country": "Algeria",
+   "lat": 35,
+   "lon": 0
+ },
+ {
+   "city": "Ibiza",
+   "country": "Spain",
+   "lat": 40,
+   "lon": 0
+ },
+ {
+   "city": "Toulouse",
+   "country": "France",
+   "lat": 45,
+   "lon": 0
+ },
+ {
+   "city": "Andorra la Vella",
+   "country": "Andorra",
+   "lat": 45,
+   "lon": 0
+ },
+ {
+   "city": "Calais",
+   "country": "France",
+   "lat": 50,
+   "lon": 0
+ },
+ {
+   "city": "Orléans",
+   "country": "France",
+   "lat": 50,
+   "lon": 0
+ },
+ {
+   "city": "Niamey",
+   "country": "Niger",
+   "lat": 15,
+   "lon": 0
+ },
+ {
+   "city": "Barcelona",
+   "country": "Spain",
+   "lat": 40,
+   "lon": 0
+ },
+ {
+   "city": "Paris",
+   "country": "France",
+   "lat": 50,
+   "lon": 0
+ },
+ {
+   "city": "Cotonou",
+   "country": "Benin",
+   "lat": 5,
+   "lon": 0
+ },
+ {
+   "city": "Porto-Novo",
+   "country": "Benin",
+   "lat": 5,
+   "lon": 5
+ },
+ {
+   "city": "Palma",
+   "country": "Spain",
+   "lat": 40,
+   "lon": 5
+ },
+ {
+   "city": "Algiers",
+   "country": "Algeria",
+   "lat": 35,
+   "lon": 5
+ },
+ {
+   "city": "Lagos",
+   "country": "Nigeria",
+   "lat": 5,
+   "lon": 5
+ },
+ {
+   "city": "Ghent",
+   "country": "Belgium",
+   "lat": 50,
+   "lon": 5
+ },
+ {
+   "city": "Ibadan",
+   "country": "Nigeria",
+   "lat": 5,
+   "lon": 5
+ },
+ {
+   "city": "The Hague",
+   "country": "Netherlands",
+   "lat": 50,
+   "lon": 5
+ },
+ {
+   "city": "Brussels",
+   "country": "Belgium",
+   "lat": 50,
+   "lon": 5
+ },
+ {
+   "city": "Antwerp",
+   "country": "Belgium",
+   "lat": 50,
+   "lon": 5
+ },
+ {
+   "city": "Charleroi",
+   "country": "Belgium",
+   "lat": 50,
+   "lon": 5
+ },
+ {
+   "city": "Rotterdam",
+   "country": "Netherlands",
+   "lat": 50,
+   "lon": 5
+ },
+ {
+   "city": "Leiden",
+   "country": "Netherlands",
+   "lat": 50,
+   "lon": 5
+ },
+ {
+   "city": "Haarlem",
+   "country": "Netherlands",
+   "lat": 50,
+   "lon": 5
+ },
+ {
+   "city": "Lyon",
+   "country": "France",
+   "lat": 45,
+   "lon": 5
+ },
+ {
+   "city": "Amsterdam",
+   "country": "Netherlands",
+   "lat": 50,
+   "lon": 5
+ },
+ {
+   "city": "Utrecht",
+   "country": "Netherlands",
+   "lat": 50,
+   "lon": 5
+ },
+ {
+   "city": "Bergen",
+   "country": "Norway",
+   "lat": 60,
+   "lon": 5
+ },
+ {
+   "city": "Marseille",
+   "country": "France",
+   "lat": 45,
+   "lon": 5
+ },
+ {
+   "city": "Benin City",
+   "country": "Nigeria",
+   "lat": 5,
+   "lon": 5
+ },
+ {
+   "city": "Maastricht",
+   "country": "Netherlands",
+   "lat": 50,
+   "lon": 5
+ },
+ {
+   "city": "Luxembourg",
+   "country": "Luxembourg",
+   "lat": 50,
+   "lon": 5
+ },
+ {
+   "city": "Geneva",
+   "country": "Switzerland",
+   "lat": 45,
+   "lon": 5
+ },
+ {
+   "city": "Groningen",
+   "country": "Netherlands",
+   "lat": 55,
+   "lon": 5
+ },
+ {
+   "city": "Lausanne",
+   "country": "Switzerland",
+   "lat": 45,
+   "lon": 5
+ },
+ {
+   "city": "São Tomé",
+   "country": "São Tomé and Príncipe",
+   "lat": 0,
+   "lon": 5
+ },
+ {
+   "city": "Düsseldorf",
+   "country": "Germany",
+   "lat": 50,
+   "lon": 5
+ },
+ {
+   "city": "Enschede",
+   "country": "Netherlands",
+   "lat": 50,
+   "lon": 5
+ },
+ {
+   "city": "Cologne",
+   "country": "Germany",
+   "lat": 50,
+   "lon": 5
+ },
+ {
+   "city": "Port Harcourt",
+   "country": "Nigeria",
+   "lat": 5,
+   "lon": 5
+ },
+ {
+   "city": "Cannes",
+   "country": "France",
+   "lat": 45,
+   "lon": 5
+ },
+ {
+   "city": "Nice",
+   "country": "France",
+   "lat": 45,
+   "lon": 5
+ },
+ {
+   "city": "Monaco",
+   "country": "Monaco",
+   "lat": 45,
+   "lon": 5
+ },
+ {
+   "city": "Bern",
+   "country": "Switzerland",
+   "lat": 45,
+   "lon": 5
+ },
+ {
+   "city": "Abuja",
+   "country": "Nigeria",
+   "lat": 10,
+   "lon": 5
+ },
+ {
+   "city": "Enugu",
+   "country": "Nigeria",
+   "lat": 5,
+   "lon": 10
+ },
+ {
+   "city": "Basel",
+   "country": "Switzerland",
+   "lat": 50,
+   "lon": 10
+ },
+ {
+   "city": "Turin",
+   "country": "Italy",
+   "lat": 45,
+   "lon": 10
+ },
+ {
+   "city": "Strasbourg",
+   "country": "France",
+   "lat": 50,
+   "lon": 10
+ },
+ {
+   "city": "Kristiansand",
+   "country": "Norway",
+   "lat": 60,
+   "lon": 10
+ },
+ {
+   "city": "Esbjerg",
+   "country": "Denmark",
+   "lat": 55,
+   "lon": 10
+ },
+ {
+   "city": "Kano",
+   "country": "Nigeria",
+   "lat": 10,
+   "lon": 10
+ },
+ {
+   "city": "Zürich",
+   "country": "Switzerland",
+   "lat": 45,
+   "lon": 10
+ },
+ {
+   "city": "Frankfurt am Main",
+   "country": "Germany",
+   "lat": 50,
+   "lon": 10
+ },
+ {
+   "city": "Malabo",
+   "country": "Equatorial Guinea",
+   "lat": 5,
+   "lon": 10
+ },
+ {
+   "city": "Bremen",
+   "country": "Germany",
+   "lat": 55,
+   "lon": 10
+ },
+ {
+   "city": "Cagliari",
+   "country": "Italy",
+   "lat": 40,
+   "lon": 10
+ },
+ {
+   "city": "Stuttgart",
+   "country": "Germany",
+   "lat": 50,
+   "lon": 10
+ },
+ {
+   "city": "Milan",
+   "country": "Italy",
+   "lat": 45,
+   "lon": 10
+ },
+ {
+   "city": "Libreville",
+   "country": "Gabon",
+   "lat": 0,
+   "lon": 10
+ },
+ {
+   "city": "Vaduz",
+   "country": "Liechtenstein",
+   "lat": 45,
+   "lon": 10
+ },
+ {
+   "city": "Douala",
+   "country": "Cameroon",
+   "lat": 5,
+   "lon": 10
+ },
+ {
+   "city": "Hannover",
+   "country": "Germany",
+   "lat": 50,
+   "lon": 10
+ },
+ {
+   "city": "Hamburg",
+   "country": "Germany",
+   "lat": 55,
+   "lon": 10
+ },
+ {
+   "city": "Kiel",
+   "country": "Germany",
+   "lat": 55,
+   "lon": 10
+ },
+ {
+   "city": "Tunis",
+   "country": "Tunisia",
+   "lat": 35,
+   "lon": 10
+ },
+ {
+   "city": "Aarhus",
+   "country": "Denmark",
+   "lat": 55,
+   "lon": 10
+ },
+ {
+   "city": "Odense",
+   "country": "Denmark",
+   "lat": 55,
+   "lon": 10
+ },
+ {
+   "city": "Trondheim",
+   "country": "Norway",
+   "lat": 65,
+   "lon": 10
+ },
+ {
+   "city": "Lillehammer",
+   "country": "Norway",
+   "lat": 60,
+   "lon": 10
+ },
+ {
+   "city": "Oslo",
+   "country": "Norway",
+   "lat": 60,
+   "lon": 10
+ },
+ {
+   "city": "Sfax",
+   "country": "Tunisia",
+   "lat": 35,
+   "lon": 10
+ },
+ {
+   "city": "Stjørdal",
+   "country": "Norway",
+   "lat": 65,
+   "lon": 10
+ },
+ {
+   "city": "Sarpsborg",
+   "country": "Norway",
+   "lat": 60,
+   "lon": 10
+ },
+ {
+   "city": "Florence",
+   "country": "Italy",
+   "lat": 45,
+   "lon": 10
+ },
+ {
+   "city": "Bologna",
+   "country": "Italy",
+   "lat": 45,
+   "lon": 10
+ },
+ {
+   "city": "Innsbruck",
+   "country": "Austria",
+   "lat": 45,
+   "lon": 10
+ },
+ {
+   "city": "Yaoundé",
+   "country": "Cameroon",
+   "lat": 5,
+   "lon": 10
+ },
+ {
+   "city": "Munich",
+   "country": "Germany",
+   "lat": 50,
+   "lon": 10
+ },
+ {
+   "city": "Ny-Ålesund",
+   "country": "Norway",
+   "lat": 80,
+   "lon": 10
+ },
+ {
+   "city": "Gothenburg",
+   "country": "Sweden",
+   "lat": 60,
+   "lon": 10
+ },
+ {
+   "city": "Venice",
+   "country": "Italy",
+   "lat": 45,
+   "lon": 10
+ },
+ {
+   "city": "Leipzig",
+   "country": "Germany",
+   "lat": 50,
+   "lon": 10
+ },
+ {
+   "city": "San Marino",
+   "country": "San Marino",
+   "lat": 45,
+   "lon": 10
+ },
+ {
+   "city": "Vatican City",
+   "country": "Vatican City",
+   "lat": 40,
+   "lon": 10
+ },
+ {
+   "city": "Rome",
+   "country": "Italy",
+   "lat": 40,
+   "lon": 15
+ },
+ {
+   "city": "Copenhagen",
+   "country": "Denmark",
+   "lat": 55,
+   "lon": 15
+ },
+ {
+   "city": "Malmö",
+   "country": "Sweden",
+   "lat": 55,
+   "lon": 15
+ },
+ {
+   "city": "Salzburg",
+   "country": "Austria",
+   "lat": 50,
+   "lon": 15
+ },
+ {
+   "city": "Tripoli",
+   "country": "Libya",
+   "lat": 35,
+   "lon": 15
+ },
+ {
+   "city": "Palermo",
+   "country": "Italy",
+   "lat": 40,
+   "lon": 15
+ },
+ {
+   "city": "Berlin",
+   "country": "Germany",
+   "lat": 55,
+   "lon": 15
+ },
+ {
+   "city": "Dresden",
+   "country": "Germany",
+   "lat": 50,
+   "lon": 15
+ },
+ {
+   "city": "Naples",
+   "country": "Italy",
+   "lat": 40,
+   "lon": 15
+ },
+ {
+   "city": "Linz",
+   "country": "Austria",
+   "lat": 50,
+   "lon": 15
+ },
+ {
+   "city": "Prague",
+   "country": "Czech Republic",
+   "lat": 50,
+   "lon": 15
+ },
+ {
+   "city": "Sabha",
+   "country": "Libya",
+   "lat": 25,
+   "lon": 15
+ },
+ {
+   "city": "Birkirkara",
+   "country": "Malta",
+   "lat": 35,
+   "lon": 15
+ },
+ {
+   "city": "Ljubljana",
+   "country": "Slovenia",
+   "lat": 45,
+   "lon": 15
+ },
+ {
+   "city": "Valletta",
+   "country": "Malta",
+   "lat": 35,
+   "lon": 15
+ },
+ {
+   "city": "Bodø",
+   "country": "Norway",
+   "lat": 65,
+   "lon": 15
+ },
+ {
+   "city": "Östersund",
+   "country": "Sweden",
+   "lat": 65,
+   "lon": 15
+ },
+ {
+   "city": "N'Djamena",
+   "country": "Chad",
+   "lat": 10,
+   "lon": 15
+ },
+ {
+   "city": "Catania",
+   "country": "Italy",
+   "lat": 40,
+   "lon": 15
+ },
+ {
+   "city": "Graz",
+   "country": "Austria",
+   "lat": 45,
+   "lon": 15
+ },
+ {
+   "city": "Messina",
+   "country": "Italy",
+   "lat": 40,
+   "lon": 15
+ },
+ {
+   "city": "Longyearbyen",
+   "country": "Norway",
+   "lat": 80,
+   "lon": 15
+ },
+ {
+   "city": "Zagreb",
+   "country": "Croatia",
+   "lat": 45,
+   "lon": 15
+ },
+ {
+   "city": "Moundou",
+   "country": "Chad",
+   "lat": 10,
+   "lon": 15
+ },
+ {
+   "city": "Norrköping",
+   "country": "Sweden",
+   "lat": 60,
+   "lon": 15
+ },
+ {
+   "city": "Vienna",
+   "country": "Austria",
+   "lat": 50,
+   "lon": 15
+ },
+ {
+   "city": "Split",
+   "country": "Croatia",
+   "lat": 45,
+   "lon": 15
+ },
+ {
+   "city": "Bratislava",
+   "country": "Slovakia",
+   "lat": 50,
+   "lon": 15
+ },
+ {
+   "city": "Sundsvall",
+   "country": "Sweden",
+   "lat": 60,
+   "lon": 15
+ },
+ {
+   "city": "Narvik",
+   "country": "Norway",
+   "lat": 70,
+   "lon": 20
+ },
+ {
+   "city": "Uppsala",
+   "country": "Sweden",
+   "lat": 60,
+   "lon": 20
+ },
+ {
+   "city": "Stockholm",
+   "country": "Sweden",
+   "lat": 60,
+   "lon": 20
+ },
+ {
+   "city": "Sarajevo",
+   "country": "Bosnia and Herzegovina",
+   "lat": 45,
+   "lon": 20
+ },
+ {
+   "city": "Gdynia",
+   "country": "Poland",
+   "lat": 55,
+   "lon": 20
+ },
+ {
+   "city": "Bangui",
+   "country": "Central African Republic",
+   "lat": 5,
+   "lon": 20
+ },
+ {
+   "city": "Gdańsk",
+   "country": "Poland",
+   "lat": 55,
+   "lon": 20
+ },
+ {
+   "city": "Örnsköldsvik",
+   "country": "Sweden",
+   "lat": 65,
+   "lon": 20
+ },
+ {
+   "city": "Tromsø",
+   "country": "Norway",
+   "lat": 70,
+   "lon": 20
+ },
+ {
+   "city": "Budapest",
+   "country": "Hungary",
+   "lat": 45,
+   "lon": 20
+ },
+ {
+   "city": "Podgorica",
+   "country": "Montenegro",
+   "lat": 40,
+   "lon": 20
+ },
+ {
+   "city": "Tirana",
+   "country": "Albania",
+   "lat": 40,
+   "lon": 20
+ },
+ {
+   "city": "Novi Sad",
+   "country": "Serbia",
+   "lat": 45,
+   "lon": 20
+ },
+ {
+   "city": "Kraków",
+   "country": "Poland",
+   "lat": 50,
+   "lon": 20
+ },
+ {
+   "city": "Benghazi",
+   "country": "Libya",
+   "lat": 30,
+   "lon": 20
+ },
+ {
+   "city": "Kiruna",
+   "country": "Sweden",
+   "lat": 70,
+   "lon": 20
+ },
+ {
+   "city": "Umeå",
+   "country": "Sweden",
+   "lat": 65,
+   "lon": 20
+ },
+ {
+   "city": "Belgrade",
+   "country": "Serbia",
+   "lat": 45,
+   "lon": 20
+ },
+ {
+   "city": "Kaliningrad",
+   "country": "Russia",
+   "lat": 55,
+   "lon": 20
+ },
+ {
+   "city": "Skellefteå",
+   "country": "Sweden",
+   "lat": 65,
+   "lon": 20
+ },
+ {
+   "city": "Warsaw",
+   "country": "Poland",
+   "lat": 50,
+   "lon": 20
+ },
+ {
+   "city": "Pristina",
+   "country": "Serbia",
+   "lat": 45,
+   "lon": 20
+ },
+ {
+   "city": "Skopje",
+   "country": "Macedonia",
+   "lat": 40,
+   "lon": 20
+ },
+ {
+   "city": "Piteå",
+   "country": "Sweden",
+   "lat": 65,
+   "lon": 20
+ },
+ {
+   "city": "Vaasa",
+   "country": "Finland",
+   "lat": 65,
+   "lon": 20
+ },
+ {
+   "city": "Boden",
+   "country": "Sweden",
+   "lat": 65,
+   "lon": 20
+ },
+ {
+   "city": "Luleå",
+   "country": "Sweden",
+   "lat": 65,
+   "lon": 20
+ },
+ {
+   "city": "Turku",
+   "country": "Finland",
+   "lat": 60,
+   "lon": 20
+ },
+ {
+   "city": "Thessaloniki",
+   "country": "Greece",
+   "lat": 40,
+   "lon": 25
+ },
+ {
+   "city": "Sofia",
+   "country": "Bulgaria",
+   "lat": 45,
+   "lon": 25
+ },
+ {
+   "city": "Cluj-Napoca",
+   "country": "Romania",
+   "lat": 45,
+   "lon": 25
+ },
+ {
+   "city": "Halkida",
+   "country": "Greece",
+   "lat": 40,
+   "lon": 25
+ },
+ {
+   "city": "Hammerfest",
+   "country": "Norway",
+   "lat": 70,
+   "lon": 25
+ },
+ {
+   "city": "Athena",
+   "country": "Greece",
+   "lat": 40,
+   "lon": 25
+ },
+ {
+   "city": "Tampere",
+   "country": "Finland",
+   "lat": 60,
+   "lon": 25
+ },
+ {
+   "city": "Craiova",
+   "country": "Romania",
+   "lat": 45,
+   "lon": 25
+ },
+ {
+   "city": "Lviv",
+   "country": "Ukraine",
+   "lat": 50,
+   "lon": 25
+ },
+ {
+   "city": "Riga",
+   "country": "Latvia",
+   "lat": 55,
+   "lon": 25
+ },
+ {
+   "city": "Haparanda",
+   "country": "Sweden",
+   "lat": 65,
+   "lon": 25
+ },
+ {
+   "city": "Tornio",
+   "country": "Finland",
+   "lat": 65,
+   "lon": 25
+ },
+ {
+   "city": "Kemi",
+   "country": "Finland",
+   "lat": 65,
+   "lon": 25
+ },
+ {
+   "city": "Espoo",
+   "country": "Finland",
+   "lat": 60,
+   "lon": 25
+ },
+ {
+   "city": "Tallinn",
+   "country": "Estonia",
+   "lat": 60,
+   "lon": 25
+ },
+ {
+   "city": "Helsinki",
+   "country": "Finland",
+   "lat": 60,
+   "lon": 25
+ },
+ {
+   "city": "Vantaa",
+   "country": "Finland",
+   "lat": 60,
+   "lon": 25
+ },
+ {
+   "city": "Heraklion",
+   "country": "Greece",
+   "lat": 35,
+   "lon": 25
+ },
+ {
+   "city": "Vilnius",
+   "country": "Lithuania",
+   "lat": 55,
+   "lon": 25
+ },
+ {
+   "city": "Oulu",
+   "country": "Finland",
+   "lat": 65,
+   "lon": 25
+ },
+ {
+   "city": "Lahti",
+   "country": "Finland",
+   "lat": 60,
+   "lon": 25
+ },
+ {
+   "city": "Rovaniemi",
+   "country": "Finland",
+   "lat": 65,
+   "lon": 25
+ },
+ {
+   "city": "Jyväskylä",
+   "country": "Finland",
+   "lat": 60,
+   "lon": 25
+ },
+ {
+   "city": "Bucharest",
+   "country": "Romania",
+   "lat": 45,
+   "lon": 25
+ },
+ {
+   "city": "Tartu",
+   "country": "Estonia",
+   "lat": 60,
+   "lon": 25
+ },
+ {
+   "city": "Pudasjärvi",
+   "country": "Finland",
+   "lat": 65,
+   "lon": 25
+ },
+ {
+   "city": "Utsjoki",
+   "country": "Finland",
+   "lat": 70,
+   "lon": 25
+ },
+ {
+   "city": "İzmir",
+   "country": "Turkey",
+   "lat": 40,
+   "lon": 25
+ },
+ {
+   "city": "Kemijärvi",
+   "country": "Finland",
+   "lat": 65,
+   "lon": 25
+ },
+ {
+   "city": "Minsk",
+   "country": "Belarus",
+   "lat": 55,
+   "lon": 30
+ },
+ {
+   "city": "Kuopio",
+   "country": "Finland",
+   "lat": 65,
+   "lon": 30
+ },
+ {
+   "city": "Nuorgam",
+   "country": "Finland",
+   "lat": 70,
+   "lon": 30
+ },
+ {
+   "city": "Chişinău",
+   "country": "Moldova",
+   "lat": 45,
+   "lon": 30
+ },
+ {
+   "city": "Istanbul",
+   "country": "Turkey",
+   "lat": 40,
+   "lon": 30
+ },
+ {
+   "city": "Bursa",
+   "country": "Turkey",
+   "lat": 40,
+   "lon": 30
+ },
+ {
+   "city": "Kuusamo",
+   "country": "Finland",
+   "lat": 65,
+   "lon": 30
+ },
+ {
+   "city": "Tiraspol",
+   "country": "Moldova",
+   "lat": 45,
+   "lon": 30
+ },
+ {
+   "city": "Vadsø",
+   "country": "Norway",
+   "lat": 70,
+   "lon": 30
+ },
+ {
+   "city": "Alexandria",
+   "country": "Egypt",
+   "lat": 30,
+   "lon": 30
+ },
+ {
+   "city": "Saint Petersburg",
+   "country": "Russia",
+   "lat": 60,
+   "lon": 30
+ },
+ {
+   "city": "Eskisehir",
+   "country": "Turkey",
+   "lat": 40,
+   "lon": 30
+ },
+ {
+   "city": "Kiev",
+   "country": "Ukraine",
+   "lat": 50,
+   "lon": 30
+ },
+ {
+   "city": "Odessa",
+   "country": "Ukraine",
+   "lat": 45,
+   "lon": 30
+ },
+ {
+   "city": "Cairo",
+   "country": "Egypt",
+   "lat": 30,
+   "lon": 30
+ },
+ {
+   "city": "Juba",
+   "country": "South Sudan",
+   "lat": 5,
+   "lon": 30
+ },
+ {
+   "city": "Port Said",
+   "country": "Egypt",
+   "lat": 30,
+   "lon": 30
+ },
+ {
+   "city": "Entebbe",
+   "country": "Uganda",
+   "lat": 0,
+   "lon": 30
+ },
+ {
+   "city": "Konya",
+   "country": "Turkey",
+   "lat": 40,
+   "lon": 30
+ },
+ {
+   "city": "Omdurman",
+   "country": "Sudan",
+   "lat": 15,
+   "lon": 30
+ },
+ {
+   "city": "Khartoum",
+   "country": "Sudan",
+   "lat": 15,
+   "lon": 35
+ },
+ {
+   "city": "Suez",
+   "country": "Egypt",
+   "lat": 30,
+   "lon": 35
+ },
+ {
+   "city": "Kampala",
+   "country": "Uganda",
+   "lat": 0,
+   "lon": 35
+ },
+ {
+   "city": "Luxor",
+   "country": "Egypt",
+   "lat": 25,
+   "lon": 35
+ },
+ {
+   "city": "Ankara",
+   "country": "Turkey",
+   "lat": 40,
+   "lon": 35
+ },
+ {
+   "city": "Murmansk",
+   "country": "Russia",
+   "lat": 70,
+   "lon": 35
+ },
+ {
+   "city": "Nicosia",
+   "country": "Cyprus",
+   "lat": 35,
+   "lon": 35
+ },
+ {
+   "city": "Simferopol",
+   "country": "Russia",
+   "lat": 45,
+   "lon": 35
+ },
+ {
+   "city": "Gaza",
+   "country": "Palestine",
+   "lat": 30,
+   "lon": 35
+ },
+ {
+   "city": "Mersin",
+   "country": "Turkey",
+   "lat": 35,
+   "lon": 35
+ },
+ {
+   "city": "Tel Aviv",
+   "country": "Israel",
+   "lat": 30,
+   "lon": 35
+ },
+ {
+   "city": "Eilat",
+   "country": "Israel",
+   "lat": 30,
+   "lon": 35
+ },
+ {
+   "city": "Jerusalem",
+   "country": "Israel",
+   "lat": 30,
+   "lon": 35
+ },
+ {
+   "city": "Adana",
+   "country": "Turkey",
+   "lat": 35,
+   "lon": 35
+ },
+ {
+   "city": "Beirut",
+   "country": "Lebanon",
+   "lat": 35,
+   "lon": 35
+ },
+ {
+   "city": "Latakia",
+   "country": "Syria",
+   "lat": 35,
+   "lon": 35
+ },
+ {
+   "city": "Amman",
+   "country": "Jordan",
+   "lat": 30,
+   "lon": 35
+ },
+ {
+   "city": "Kharkiv",
+   "country": "Ukraine",
+   "lat": 50,
+   "lon": 35
+ },
+ {
+   "city": "Damascus",
+   "country": "Syria",
+   "lat": 35,
+   "lon": 35
+ },
+ {
+   "city": "Gaziantep",
+   "country": "Turkey",
+   "lat": 35,
+   "lon": 35
+ },
+ {
+   "city": "Moscow",
+   "country": "Russia",
+   "lat": 55,
+   "lon": 40
+ },
+ {
+   "city": "Addis Ababa",
+   "country": "Ethiopia",
+   "lat": 10,
+   "lon": 40
+ },
+ {
+   "city": "Asmara",
+   "country": "Eritrea",
+   "lat": 15,
+   "lon": 40
+ },
+ {
+   "city": "Krasnodar",
+   "country": "Russia",
+   "lat": 45,
+   "lon": 40
+ },
+ {
+   "city": "Jeddah",
+   "country": "Saudi Arabia",
+   "lat": 20,
+   "lon": 40
+ },
+ {
+   "city": "Voronezh",
+   "country": "Russia",
+   "lat": 50,
+   "lon": 40
+ },
+ {
+   "city": "Medina",
+   "country": "Saudi Arabia",
+   "lat": 25,
+   "lon": 40
+ },
+ {
+   "city": "Rostov-on-Don",
+   "country": "Russia",
+   "lat": 45,
+   "lon": 40
+ },
+ {
+   "city": "Sochi",
+   "country": "Russia",
+   "lat": 45,
+   "lon": 40
+ },
+ {
+   "city": "Mecca",
+   "country": "Saudi Arabia",
+   "lat": 20,
+   "lon": 40
+ },
+ {
+   "city": "Yaroslavl",
+   "country": "Russia",
+   "lat": 60,
+   "lon": 40
+ },
+ {
+   "city": "Arkhangelsk",
+   "country": "Russia",
+   "lat": 65,
+   "lon": 40
+ },
+ {
+   "city": "Sukhumi",
+   "country": "Georgia",
+   "lat": 45,
+   "lon": 40
+ },
+ {
+   "city": "Mosul",
+   "country": "Iraq",
+   "lat": 35,
+   "lon": 45
+ },
+ {
+   "city": "Djibouti",
+   "country": "Djibouti",
+   "lat": 10,
+   "lon": 45
+ },
+ {
+   "city": "Tskhinvali",
+   "country": "Georgia",
+   "lat": 40,
+   "lon": 45
+ },
+ {
+   "city": "Nizhny Novgorod",
+   "country": "Russia",
+   "lat": 55,
+   "lon": 45
+ },
+ {
+   "city": "Arbil",
+   "country": "Iraq",
+   "lat": 35,
+   "lon": 45
+ },
+ {
+   "city": "Hargeisa",
+   "country": "Somalia",
+   "lat": 10,
+   "lon": 45
+ },
+ {
+   "city": "Sana'a",
+   "country": "Yemen",
+   "lat": 15,
+   "lon": 45
+ },
+ {
+   "city": "Kirkuk",
+   "country": "Iraq",
+   "lat": 35,
+   "lon": 45
+ },
+ {
+   "city": "Baghdad",
+   "country": "Iraq",
+   "lat": 35,
+   "lon": 45
+ },
+ {
+   "city": "Volgograd",
+   "country": "Russia",
+   "lat": 50,
+   "lon": 45
+ },
+ {
+   "city": "Yerevan",
+   "country": "Armenia",
+   "lat": 40,
+   "lon": 45
+ },
+ {
+   "city": "Tbilisi",
+   "country": "Georgia",
+   "lat": 40,
+   "lon": 45
+ },
+ {
+   "city": "Mogadishu",
+   "country": "Somalia",
+   "lat": 0,
+   "lon": 45
+ },
+ {
+   "city": "Saratov",
+   "country": "Russia",
+   "lat": 50,
+   "lon": 45
+ },
+ {
+   "city": "Tabriz",
+   "country": "Iran",
+   "lat": 40,
+   "lon": 45
+ },
+ {
+   "city": "Riyadh",
+   "country": "Saudi Arabia",
+   "lat": 25,
+   "lon": 45
+ },
+ {
+   "city": "Stepanakert",
+   "country": "Azerbaijan",
+   "lat": 40,
+   "lon": 45
+ },
+ {
+   "city": "Basra",
+   "country": "Iraq",
+   "lat": 30,
+   "lon": 50
+ },
+ {
+   "city": "Kuwait City",
+   "country": "Kuwait",
+   "lat": 30,
+   "lon": 50
+ },
+ {
+   "city": "Kazan",
+   "country": "Russia",
+   "lat": 55,
+   "lon": 50
+ },
+ {
+   "city": "Tolyatti",
+   "country": "Russia",
+   "lat": 55,
+   "lon": 50
+ },
+ {
+   "city": "Baku",
+   "country": "Azerbaijan",
+   "lat": 40,
+   "lon": 50
+ },
+ {
+   "city": "Samara",
+   "country": "Russia",
+   "lat": 55,
+   "lon": 50
+ },
+ {
+   "city": "Dammam",
+   "country": "Saudi Arabia",
+   "lat": 25,
+   "lon": 50
+ },
+ {
+   "city": "Manama",
+   "country": "Bahrain",
+   "lat": 25,
+   "lon": 50
+ },
+ {
+   "city": "Tehran",
+   "country": "Iran",
+   "lat": 35,
+   "lon": 50
+ },
+ {
+   "city": "Doha",
+   "country": "Qatar",
+   "lat": 25,
+   "lon": 50
+ },
+ {
+   "city": "Isfahan",
+   "country": "Iran",
+   "lat": 35,
+   "lon": 50
+ },
+ {
+   "city": "Izhevsk",
+   "country": "Russia",
+   "lat": 55,
+   "lon": 55
+ },
+ {
+   "city": "Salalah",
+   "country": "Oman",
+   "lat": 15,
+   "lon": 55
+ },
+ {
+   "city": "Abu Dhabi",
+   "country": "United Arab Emirates",
+   "lat": 25,
+   "lon": 55
+ },
+ {
+   "city": "Dubai",
+   "country": "United Arab Emirates",
+   "lat": 25,
+   "lon": 55
+ },
+ {
+   "city": "Ufa",
+   "country": "Russia",
+   "lat": 55,
+   "lon": 55
+ },
+ {
+   "city": "Perm",
+   "country": "Russia",
+   "lat": 60,
+   "lon": 55
+ },
+ {
+   "city": "Ashgabat",
+   "country": "Turkmenistan",
+   "lat": 40,
+   "lon": 60
+ },
+ {
+   "city": "Muscat",
+   "country": "Oman",
+   "lat": 25,
+   "lon": 60
+ },
+ {
+   "city": "Nukus",
+   "country": "Uzbekistan",
+   "lat": 40,
+   "lon": 60
+ },
+ {
+   "city": "Mashhad",
+   "country": "Iran",
+   "lat": 35,
+   "lon": 60
+ },
+ {
+   "city": "Yekaterinburg",
+   "country": "Russia",
+   "lat": 55,
+   "lon": 60
+ },
+ {
+   "city": "Chelyabinsk",
+   "country": "Russia",
+   "lat": 55,
+   "lon": 60
+ },
+ {
+   "city": "Kandahar",
+   "country": "Afghanistan",
+   "lat": 30,
+   "lon": 65
+ },
+ {
+   "city": "Karachi",
+   "country": "Pakistan",
+   "lat": 25,
+   "lon": 65
+ },
+ {
+   "city": "Hyderabad",
+   "country": "Pakistan",
+   "lat": 25,
+   "lon": 70
+ },
+ {
+   "city": "Dushanbe",
+   "country": "Tajikistan",
+   "lat": 40,
+   "lon": 70
+ },
+ {
+   "city": "Kabul",
+   "country": "Afghanistan",
+   "lat": 35,
+   "lon": 70
+ },
+ {
+   "city": "Tashkent",
+   "country": "Uzbekistan",
+   "lat": 40,
+   "lon": 70
+ },
+ {
+   "city": "Astana",
+   "country": "Kazakhstan",
+   "lat": 50,
+   "lon": 70
+ },
+ {
+   "city": "Multan",
+   "country": "Pakistan",
+   "lat": 30,
+   "lon": 70
+ },
+ {
+   "city": "Peshawar",
+   "country": "Pakistan",
+   "lat": 35,
+   "lon": 70
+ },
+ {
+   "city": "Namangan",
+   "country": "Uzbekistan",
+   "lat": 40,
+   "lon": 70
+ },
+ {
+   "city": "Ahmedabad",
+   "country": "India",
+   "lat": 25,
+   "lon": 75
+ },
+ {
+   "city": "Mumbai (Bombay)",
+   "country": "India",
+   "lat": 20,
+   "lon": 75
+ },
+ {
+   "city": "Surat",
+   "country": "India",
+   "lat": 20,
+   "lon": 75
+ },
+ {
+   "city": "Rawalpindi",
+   "country": "Pakistan",
+   "lat": 35,
+   "lon": 75
+ },
+ {
+   "city": "Islamabad",
+   "country": "Pakistan",
+   "lat": 35,
+   "lon": 75
+ },
+ {
+   "city": "Faisalabad",
+   "country": "Pakistan",
+   "lat": 30,
+   "lon": 75
+ },
+ {
+   "city": "Omsk",
+   "country": "Russia",
+   "lat": 55,
+   "lon": 75
+ },
+ {
+   "city": "Malé",
+   "country": "Maldives",
+   "lat": 5,
+   "lon": 75
+ },
+ {
+   "city": "Pune",
+   "country": "India",
+   "lat": 20,
+   "lon": 75
+ },
+ {
+   "city": "Lahore",
+   "country": "Pakistan",
+   "lat": 30,
+   "lon": 75
+ },
+ {
+   "city": "Bishkek",
+   "country": "Kyrgyzstan",
+   "lat": 45,
+   "lon": 75
+ },
+ {
+   "city": "Srinagar",
+   "country": "India",
+   "lat": 35,
+   "lon": 75
+ },
+ {
+   "city": "Amritsar",
+   "country": "India",
+   "lat": 30,
+   "lon": 75
+ },
+ {
+   "city": "Jaipur",
+   "country": "India",
+   "lat": 25,
+   "lon": 75
+ },
+ {
+   "city": "Ludhiana",
+   "country": "India",
+   "lat": 30,
+   "lon": 75
+ },
+ {
+   "city": "Kochi",
+   "country": "India",
+   "lat": 10,
+   "lon": 75
+ },
+ {
+   "city": "Chandigarh",
+   "country": "India",
+   "lat": 30,
+   "lon": 75
+ },
+ {
+   "city": "Almaty",
+   "country": "Kazakhstan",
+   "lat": 45,
+   "lon": 75
+ },
+ {
+   "city": "Trivandrum",
+   "country": "India",
+   "lat": 10,
+   "lon": 75
+ },
+ {
+   "city": "Shimla",
+   "country": "India",
+   "lat": 30,
+   "lon": 75
+ },
+ {
+   "city": "New Delhi",
+   "country": "India",
+   "lat": 30,
+   "lon": 75
+ },
+ {
+   "city": "Bangalore",
+   "country": "India",
+   "lat": 15,
+   "lon": 80
+ },
+ {
+   "city": "Agra",
+   "country": "India",
+   "lat": 25,
+   "lon": 80
+ },
+ {
+   "city": "Hyderabad",
+   "country": "India",
+   "lat": 15,
+   "lon": 80
+ },
+ {
+   "city": "Nagpur",
+   "country": "India",
+   "lat": 20,
+   "lon": 80
+ },
+ {
+   "city": "Kulpahar",
+   "country": "India",
+   "lat": 25,
+   "lon": 80
+ },
+ {
+   "city": "Colombo",
+   "country": "Sri Lanka",
+   "lat": 5,
+   "lon": 80
+ },
+ {
+   "city": "Sri Jayawardenapura-Kotte",
+   "country": "Sri Lanka",
+   "lat": 5,
+   "lon": 80
+ },
+ {
+   "city": "Chennai (Madras)",
+   "country": "India",
+   "lat": 15,
+   "lon": 80
+ },
+ {
+   "city": "Kanpur",
+   "country": "India",
+   "lat": 25,
+   "lon": 80
+ },
+ {
+   "city": "Kandy",
+   "country": "Sri Lanka",
+   "lat": 5,
+   "lon": 80
+ },
+ {
+   "city": "Lucknow",
+   "country": "India",
+   "lat": 25,
+   "lon": 80
+ },
+ {
+   "city": "Batticaloa",
+   "country": "Sri Lanka",
+   "lat": 10,
+   "lon": 80
+ },
+ {
+   "city": "Novosibirsk",
+   "country": "Russia",
+   "lat": 55,
+   "lon": 85
+ },
+ {
+   "city": "Visakhapatnam",
+   "country": "India",
+   "lat": 20,
+   "lon": 85
+ },
+ {
+   "city": "Patna",
+   "country": "India",
+   "lat": 25,
+   "lon": 85
+ },
+ {
+   "city": "Kathmandu",
+   "country": "Nepal",
+   "lat": 30,
+   "lon": 85
+ },
+ {
+   "city": "Ürümqi",
+   "country": "People's Republic of China",
+   "lat": 45,
+   "lon": 90
+ },
+ {
+   "city": "Norilsk",
+   "country": "Russia",
+   "lat": 70,
+   "lon": 90
+ },
+ {
+   "city": "Kolkata (Calcutta)",
+   "country": "India",
+   "lat": 25,
+   "lon": 90
+ },
+ {
+   "city": "Siliguri",
+   "country": "India",
+   "lat": 25,
+   "lon": 90
+ },
+ {
+   "city": "Gangtok",
+   "country": "India",
+   "lat": 25,
+   "lon": 90
+ },
+ {
+   "city": "Shigatse",
+   "country": "People's Republic of China",
+   "lat": 30,
+   "lon": 90
+ },
+ {
+   "city": "Thimphu",
+   "country": "Bhutan",
+   "lat": 25,
+   "lon": 90
+ },
+ {
+   "city": "Dhaka",
+   "country": "Bangladesh",
+   "lat": 25,
+   "lon": 90
+ },
+ {
+   "city": "Lhasa",
+   "country": "People's Republic of China",
+   "lat": 30,
+   "lon": 90
+ },
+ {
+   "city": "Agartala",
+   "country": "India",
+   "lat": 25,
+   "lon": 90
+ },
+ {
+   "city": "Guwahati",
+   "country": "India",
+   "lat": 25,
+   "lon": 90
+ },
+ {
+   "city": "Chittagong",
+   "country": "Bangladesh",
+   "lat": 20,
+   "lon": 90
+ },
+ {
+   "city": "Shillong",
+   "country": "India",
+   "lat": 25,
+   "lon": 90
+ },
+ {
+   "city": "Port Blair",
+   "country": "India",
+   "lat": 10,
+   "lon": 95
+ },
+ {
+   "city": "Tezpur",
+   "country": "India",
+   "lat": 25,
+   "lon": 95
+ },
+ {
+   "city": "Krasnoyarsk",
+   "country": "Russia",
+   "lat": 55,
+   "lon": 95
+ },
+ {
+   "city": "Dibrugarh",
+   "country": "India",
+   "lat": 25,
+   "lon": 95
+ },
+ {
+   "city": "Banda Aceh",
+   "country": "Indonesia",
+   "lat": 5,
+   "lon": 95
+ },
+ {
+   "city": "Naypyidaw",
+   "country": "Myanmar",
+   "lat": 20,
+   "lon": 95
+ },
+ {
+   "city": "Yangon",
+   "country": "Myanmar",
+   "lat": 15,
+   "lon": 95
+ },
+ {
+   "city": "Phuket",
+   "country": "Thailand",
+   "lat": 10,
+   "lon": 100
+ },
+ {
+   "city": "Medan",
+   "country": "Indonesia",
+   "lat": 5,
+   "lon": 100
+ },
+ {
+   "city": "Chiang Mai",
+   "country": "Thailand",
+   "lat": 20,
+   "lon": 100
+ },
+ {
+   "city": "Surat Thani",
+   "country": "Thailand",
+   "lat": 10,
+   "lon": 100
+ },
+ {
+   "city": "Chiang Rai",
+   "country": "Thailand",
+   "lat": 20,
+   "lon": 100
+ },
+ {
+   "city": "George Town",
+   "country": "Malaysia",
+   "lat": 5,
+   "lon": 100
+ },
+ {
+   "city": "Alor Setar",
+   "country": "Malaysia",
+   "lat": 5,
+   "lon": 100
+ },
+ {
+   "city": "Bangkok",
+   "country": "Thailand",
+   "lat": 15,
+   "lon": 100
+ },
+ {
+   "city": "Hat Yai",
+   "country": "Thailand",
+   "lat": 5,
+   "lon": 100
+ },
+ {
+   "city": "Ayutthaya",
+   "country": "Thailand",
+   "lat": 15,
+   "lon": 100
+ },
+ {
+   "city": "Pattaya",
+   "country": "Thailand",
+   "lat": 15,
+   "lon": 100
+ },
+ {
+   "city": "Ipoh",
+   "country": "Malaysia",
+   "lat": 5,
+   "lon": 100
+ },
+ {
+   "city": "Pekanbaru",
+   "country": "Indonesia",
+   "lat": 0,
+   "lon": 100
+ },
+ {
+   "city": "Bratsk",
+   "country": "Russia",
+   "lat": 55,
+   "lon": 100
+ },
+ {
+   "city": "Kuala Lumpur",
+   "country": "Malaysia",
+   "lat": 5,
+   "lon": 100
+ },
+ {
+   "city": "Xining",
+   "country": "People's Republic of China",
+   "lat": 35,
+   "lon": 100
+ },
+ {
+   "city": "Nakhon Ratchasima",
+   "country": "Thailand",
+   "lat": 15,
+   "lon": 100
+ },
+ {
+   "city": "Kota Bharu",
+   "country": "Malaysia",
+   "lat": 5,
+   "lon": 100
+ },
+ {
+   "city": "Malacca Town",
+   "country": "Malaysia",
+   "lat": 0,
+   "lon": 100
+ },
+ {
+   "city": "Vientiane",
+   "country": "Laos",
+   "lat": 20,
+   "lon": 105
+ },
+ {
+   "city": "Kunming",
+   "country": "People's Republic of China",
+   "lat": 25,
+   "lon": 105
+ },
+ {
+   "city": "Udon Thani",
+   "country": "Thailand",
+   "lat": 15,
+   "lon": 105
+ },
+ {
+   "city": "Khon Kaen",
+   "country": "Thailand",
+   "lat": 15,
+   "lon": 105
+ },
+ {
+   "city": "Johor Bahru",
+   "country": "Malaysia",
+   "lat": 0,
+   "lon": 105
+ },
+ {
+   "city": "Lanzhou",
+   "country": "People's Republic of China",
+   "lat": 35,
+   "lon": 105
+ },
+ {
+   "city": "Singapore",
+   "country": "Singapore",
+   "lat": 0,
+   "lon": 105
+ },
+ {
+   "city": "Siem Reap",
+   "country": "Cambodia",
+   "lat": 15,
+   "lon": 105
+ },
+ {
+   "city": "Chengdu",
+   "country": "People's Republic of China",
+   "lat": 30,
+   "lon": 105
+ },
+ {
+   "city": "Irkutsk",
+   "country": "Russia",
+   "lat": 50,
+   "lon": 105
+ },
+ {
+   "city": "Phnom Penh",
+   "country": "Cambodia",
+   "lat": 10,
+   "lon": 105
+ },
+ {
+   "city": "Hanoi",
+   "country": "Vietnam",
+   "lat": 20,
+   "lon": 105
+ },
+ {
+   "city": "Chongqing",
+   "country": "People's Republic of China",
+   "lat": 30,
+   "lon": 105
+ },
+ {
+   "city": "Ho Chi Minh City",
+   "country": "Vietnam",
+   "lat": 10,
+   "lon": 105
+ },
+ {
+   "city": "Hai Phong",
+   "country": "Vietnam",
+   "lat": 20,
+   "lon": 105
+ },
+ {
+   "city": "Ulaanbaatar",
+   "country": "Mongolia",
+   "lat": 50,
+   "lon": 105
+ },
+ {
+   "city": "Huế",
+   "country": "Vietnam",
+   "lat": 15,
+   "lon": 110
+ },
+ {
+   "city": "Da Nang",
+   "country": "Vietnam",
+   "lat": 15,
+   "lon": 110
+ },
+ {
+   "city": "Nanning",
+   "country": "People's Republic of China",
+   "lat": 25,
+   "lon": 110
+ },
+ {
+   "city": "Xi'an",
+   "country": "People's Republic of China",
+   "lat": 35,
+   "lon": 110
+ },
+ {
+   "city": "Kuching",
+   "country": "Malaysia",
+   "lat": 0,
+   "lon": 110
+ },
+ {
+   "city": "Taiyuan",
+   "country": "People's Republic of China",
+   "lat": 40,
+   "lon": 115
+ },
+ {
+   "city": "Guangzhou",
+   "country": "People's Republic of China",
+   "lat": 25,
+   "lon": 115
+ },
+ {
+   "city": "Macau",
+   "country": "People's Republic of China",
+   "lat": 20,
+   "lon": 115
+ },
+ {
+   "city": "Zhengzhou",
+   "country": "People's Republic of China",
+   "lat": 35,
+   "lon": 115
+ },
+ {
+   "city": "Dongguan",
+   "country": "People's Republic of China",
+   "lat": 25,
+   "lon": 115
+ },
+ {
+   "city": "Miri",
+   "country": "Malaysia",
+   "lat": 5,
+   "lon": 115
+ },
+ {
+   "city": "Shenzhen",
+   "country": "People's Republic of China",
+   "lat": 25,
+   "lon": 115
+ },
+ {
+   "city": "Hong Kong",
+   "country": "People's Republic of China",
+   "lat": 20,
+   "lon": 115
+ },
+ {
+   "city": "Wuhan",
+   "country": "People's Republic of China",
+   "lat": 30,
+   "lon": 115
+ },
+ {
+   "city": "Handan",
+   "country": "People's Republic of China",
+   "lat": 35,
+   "lon": 115
+ },
+ {
+   "city": "Shijiazhuang",
+   "country": "People's Republic of China",
+   "lat": 40,
+   "lon": 115
+ },
+ {
+   "city": "Bandar Seri Begawan",
+   "country": "Brunei",
+   "lat": 5,
+   "lon": 115
+ },
+ {
+   "city": "Kota Kinabalu",
+   "country": "Malaysia",
+   "lat": 5,
+   "lon": 115
+ },
+ {
+   "city": "Beijing",
+   "country": "People's Republic of China",
+   "lat": 40,
+   "lon": 115
+ },
+ {
+   "city": "Jinan",
+   "country": "People's Republic of China",
+   "lat": 35,
+   "lon": 115
+ },
+ {
+   "city": "Tianjin",
+   "country": "People's Republic of China",
+   "lat": 40,
+   "lon": 115
+ },
+ {
+   "city": "Nanjing",
+   "country": "People's Republic of China",
+   "lat": 30,
+   "lon": 120
+ },
+ {
+   "city": "Hangzhou",
+   "country": "People's Republic of China",
+   "lat": 30,
+   "lon": 120
+ },
+ {
+   "city": "Tainan",
+   "country": "Republic of China (Taiwan)",
+   "lat": 25,
+   "lon": 120
+ },
+ {
+   "city": "Kaohsiung",
+   "country": "Republic of China (Taiwan)",
+   "lat": 25,
+   "lon": 120
+ },
+ {
+   "city": "Qingdao",
+   "country": "People's Republic of China",
+   "lat": 35,
+   "lon": 120
+ },
+ {
+   "city": "Taichung",
+   "country": "Republic of China (Taiwan)",
+   "lat": 25,
+   "lon": 120
+ },
+ {
+   "city": "Manila",
+   "country": "Philippines",
+   "lat": 15,
+   "lon": 120
+ },
+ {
+   "city": "Quezon City",
+   "country": "Philippines",
+   "lat": 15,
+   "lon": 120
+ },
+ {
+   "city": "Makati",
+   "country": "Philippines",
+   "lat": 15,
+   "lon": 120
+ },
+ {
+   "city": "Shanghai",
+   "country": "People's Republic of China",
+   "lat": 30,
+   "lon": 120
+ },
+ {
+   "city": "Taipei",
+   "country": "Republic of China (Taiwan)",
+   "lat": 25,
+   "lon": 120
+ },
+ {
+   "city": "Dalian",
+   "country": "People's Republic of China",
+   "lat": 40,
+   "lon": 120
+ },
+ {
+   "city": "Zamboanga City",
+   "country": "Philippines",
+   "lat": 5,
+   "lon": 120
+ },
+ {
+   "city": "Iloilo City",
+   "country": "Philippines",
+   "lat": 10,
+   "lon": 125
+ },
+ {
+   "city": "Shenyang",
+   "country": "People's Republic of China",
+   "lat": 40,
+   "lon": 125
+ },
+ {
+   "city": "Tagbilaran",
+   "country": "Philippines",
+   "lat": 10,
+   "lon": 125
+ },
+ {
+   "city": "Cebu City",
+   "country": "Philippines",
+   "lat": 10,
+   "lon": 125
+ },
+ {
+   "city": "Changchun",
+   "country": "People's Republic of China",
+   "lat": 45,
+   "lon": 125
+ },
+ {
+   "city": "Davao City",
+   "country": "Philippines",
+   "lat": 5,
+   "lon": 125
+ },
+ {
+   "city": "Pyongyang",
+   "country": "North Korea",
+   "lat": 40,
+   "lon": 125
+ },
+ {
+   "city": "Kaesong",
+   "country": "North Korea",
+   "lat": 40,
+   "lon": 125
+ },
+ {
+   "city": "Harbin",
+   "country": "People's Republic of China",
+   "lat": 45,
+   "lon": 125
+ },
+ {
+   "city": "Incheon",
+   "country": "South Korea",
+   "lat": 35,
+   "lon": 125
+ },
+ {
+   "city": "Seoul",
+   "country": "South Korea",
+   "lat": 40,
+   "lon": 125
+ },
+ {
+   "city": "Wonsan",
+   "country": "North Korea",
+   "lat": 40,
+   "lon": 125
+ },
+ {
+   "city": "Naha",
+   "country": "Japan",
+   "lat": 25,
+   "lon": 130
+ },
+ {
+   "city": "Daegu",
+   "country": "South Korea",
+   "lat": 35,
+   "lon": 130
+ },
+ {
+   "city": "Busan",
+   "country": "South Korea",
+   "lat": 35,
+   "lon": 130
+ },
+ {
+   "city": "Yakutsk",
+   "country": "Russia",
+   "lat": 60,
+   "lon": 130
+ },
+ {
+   "city": "Chongjin",
+   "country": "North Korea",
+   "lat": 40,
+   "lon": 130
+ },
+ {
+   "city": "Fukuoka",
+   "country": "Japan",
+   "lat": 35,
+   "lon": 130
+ },
+ {
+   "city": "Vladivostok",
+   "country": "Russia",
+   "lat": 45,
+   "lon": 130
+ },
+ {
+   "city": "Hiroshima",
+   "country": "Japan",
+   "lat": 35,
+   "lon": 130
+ },
+ {
+   "city": "Verkhoyansk",
+   "country": "Russia",
+   "lat": 70,
+   "lon": 135
+ },
+ {
+   "city": "Koror",
+   "country": "Palau",
+   "lat": 5,
+   "lon": 135
+ },
+ {
+   "city": "Melekeok",
+   "country": "Palau",
+   "lat": 5,
+   "lon": 135
+ },
+ {
+   "city": "Kōbe",
+   "country": "Japan",
+   "lat": 35,
+   "lon": 135
+ },
+ {
+   "city": "Osaka",
+   "country": "Japan",
+   "lat": 35,
+   "lon": 135
+ },
+ {
+   "city": "Kyoto",
+   "country": "Japan",
+   "lat": 35,
+   "lon": 135
+ },
+ {
+   "city": "Nagoya",
+   "country": "Japan",
+   "lat": 35,
+   "lon": 135
+ },
+ {
+   "city": "Yokohama",
+   "country": "Japan",
+   "lat": 35,
+   "lon": 140
+ },
+ {
+   "city": "Tokyo",
+   "country": "Japan",
+   "lat": 35,
+   "lon": 140
+ },
+ {
+   "city": "Kawasaki",
+   "country": "Japan",
+   "lat": 35,
+   "lon": 140
+ },
+ {
+   "city": "Sendai",
+   "country": "Japan",
+   "lat": 40,
+   "lon": 140
+ },
+ {
+   "city": "Sapporo",
+   "country": "Japan",
+   "lat": 45,
+   "lon": 140
+ },
+ {
+   "city": "Hagåtña",
+   "country": "United States",
+   "lat": 15,
+   "lon": 145
+ },
+ {
+   "city": "Dededo",
+   "country": "United States",
+   "lat": 15,
+   "lon": 145
+ },
+ {
+   "city": "Nemuro",
+   "country": "Japan",
+   "lat": 45,
+   "lon": 145
+ },
+ {
+   "city": "Saipan",
+   "country": "United States",
+   "lat": 15,
+   "lon": 145
+ },
+ {
+   "city": "Magadan",
+   "country": "Russia",
+   "lat": 60,
+   "lon": 150
+ },
+ {
+   "city": "Weno",
+   "country": "Federated States of Micronesia",
+   "lat": 5,
+   "lon": 150
+ },
+ {
+   "city": "Palikir",
+   "country": "Federated States of Micronesia",
+   "lat": 5,
+   "lon": 160
+ },
+ {
+   "city": "Petropavlovsk-Kamchatsky",
+   "country": "Russia",
+   "lat": 55,
+   "lon": 160
+ },
+ {
+   "city": "Majuro",
+   "country": "Marshall Islands",
+   "lat": 5,
+   "lon": 170
+ },
+ {
+   "city": "South Tarawa",
+   "country": "Kiribati",
+   "lat": 0,
+   "lon": 175
+ },
+ {
+   "city": "Anadyr",
+   "country": "Russia",
+   "lat": 65,
+   "lon": 180
+ },
+ {
+   "city": "Rabi Island",
+   "country": "Fiji",
+   "lat": -15,
+   "lon": -180
+ },
+ {
+   "city": "Mata-Utu",
+   "country": "France",
+   "lat": -15,
+   "lon": -175
+ },
+ {
+   "city": "Nukuʻalofa",
+   "country": "Tonga",
+   "lat": -20,
+   "lon": -175
+ },
+ {
+   "city": "Apia",
+   "country": "Samoa",
+   "lat": -15,
+   "lon": -170
+ },
+ {
+   "city": "Pago Pago",
+   "country": "United States",
+   "lat": -15,
+   "lon": -170
+ },
+ {
+   "city": "Alofi",
+   "country": "New Zealand",
+   "lat": -20,
+   "lon": -170
+ },
+ {
+   "city": "Avarua",
+   "country": "New Zealand",
+   "lat": -20,
+   "lon": -160
+ },
+ {
+   "city": "Papeete",
+   "country": "France",
+   "lat": -20,
+   "lon": -150
+ },
+ {
+   "city": "Adamstown",
+   "country": "United Kingdom",
+   "lat": -25,
+   "lon": -130
+ },
+ {
+   "city": "Hanga Roa",
+   "country": "Chile",
+   "lat": -25,
+   "lon": -110
+ },
+ {
+   "city": "Guayaquil",
+   "country": "Ecuador",
+   "lat": 0,
+   "lon": -80
+ },
+ {
+   "city": "Trujillo",
+   "country": "Peru",
+   "lat": -10,
+   "lon": -80
+ },
+ {
+   "city": "Quito",
+   "country": "Ecuador",
+   "lat": 0,
+   "lon": -80
+ },
+ {
+   "city": "Lima",
+   "country": "Peru",
+   "lat": -10,
+   "lon": -75
+ },
+ {
+   "city": "Ayacucho",
+   "country": "Peru",
+   "lat": -15,
+   "lon": -75
+ },
+ {
+   "city": "Iquitos",
+   "country": "Peru",
+   "lat": -5,
+   "lon": -75
+ },
+ {
+   "city": "Valdivia",
+   "country": "Chile",
+   "lat": -40,
+   "lon": -75
+ },
+ {
+   "city": "Concepción",
+   "country": "Chile",
+   "lat": -35,
+   "lon": -75
+ },
+ {
+   "city": "Puerto Montt",
+   "country": "Chile",
+   "lat": -40,
+   "lon": -75
+ },
+ {
+   "city": "Puerto Aisén",
+   "country": "Chile",
+   "lat": -45,
+   "lon": -75
+ },
+ {
+   "city": "Temuco",
+   "country": "Chile",
+   "lat": -40,
+   "lon": -75
+ },
+ {
+   "city": "Coihaique",
+   "country": "Chile",
+   "lat": -45,
+   "lon": -70
+ },
+ {
+   "city": "Cusco",
+   "country": "Peru",
+   "lat": -15,
+   "lon": -70
+ },
+ {
+   "city": "Valparaíso",
+   "country": "Chile",
+   "lat": -35,
+   "lon": -70
+ },
+ {
+   "city": "Arequipa",
+   "country": "Peru",
+   "lat": -15,
+   "lon": -70
+ },
+ {
+   "city": "San Carlos de Bariloche",
+   "country": "Argentina",
+   "lat": -40,
+   "lon": -70
+ },
+ {
+   "city": "La Serena",
+   "country": "Chile",
+   "lat": -30,
+   "lon": -70
+ },
+ {
+   "city": "Punta Arenas",
+   "country": "Chile",
+   "lat": -55,
+   "lon": -70
+ },
+ {
+   "city": "Santiago",
+   "country": "Chile",
+   "lat": -35,
+   "lon": -70
+ },
+ {
+   "city": "Antofagasta",
+   "country": "Chile",
+   "lat": -25,
+   "lon": -70
+ },
+ {
+   "city": "Arica",
+   "country": "Chile",
+   "lat": -20,
+   "lon": -70
+ },
+ {
+   "city": "Copiapó",
+   "country": "Chile",
+   "lat": -25,
+   "lon": -70
+ },
+ {
+   "city": "Iquique",
+   "country": "Chile",
+   "lat": -20,
+   "lon": -70
+ },
+ {
+   "city": "Río Gallegos",
+   "country": "Argentina",
+   "lat": -50,
+   "lon": -70
+ },
+ {
+   "city": "Calama",
+   "country": "Chile",
+   "lat": -20,
+   "lon": -70
+ },
+ {
+   "city": "Mendoza",
+   "country": "Argentina",
+   "lat": -35,
+   "lon": -70
+ },
+ {
+   "city": "Ushuaia",
+   "country": "Argentina",
+   "lat": -55,
+   "lon": -70
+ },
+ {
+   "city": "La Paz",
+   "country": "Bolivia",
+   "lat": -15,
+   "lon": -70
+ },
+ {
+   "city": "Rio Branco",
+   "country": "Brazil",
+   "lat": -10,
+   "lon": -70
+ },
+ {
+   "city": "Puerto Williams",
+   "country": "Chile",
+   "lat": -55,
+   "lon": -70
+ },
+ {
+   "city": "Comodoro Rivadavia",
+   "country": "Argentina",
+   "lat": -45,
+   "lon": -65
+ },
+ {
+   "city": "Puerto Toro",
+   "country": "Chile",
+   "lat": -55,
+   "lon": -65
+ },
+ {
+   "city": "Salta",
+   "country": "Argentina",
+   "lat": -25,
+   "lon": -65
+ },
+ {
+   "city": "Trelew",
+   "country": "Argentina",
+   "lat": -45,
+   "lon": -65
+ },
+ {
+   "city": "Sucre",
+   "country": "Bolivia",
+   "lat": -20,
+   "lon": -65
+ },
+ {
+   "city": "San Miguel de Tucumán",
+   "country": "Argentina",
+   "lat": -25,
+   "lon": -65
+ },
+ {
+   "city": "Córdoba",
+   "country": "Argentina",
+   "lat": -30,
+   "lon": -65
+ },
+ {
+   "city": "Porto Velho",
+   "country": "Brazil",
+   "lat": -10,
+   "lon": -65
+ },
+ {
+   "city": "Santa Cruz de la Sierra",
+   "country": "Bolivia",
+   "lat": -20,
+   "lon": -65
+ },
+ {
+   "city": "Bahía Blanca",
+   "country": "Argentina",
+   "lat": -40,
+   "lon": -60
+ },
+ {
+   "city": "Rosario",
+   "country": "Argentina",
+   "lat": -35,
+   "lon": -60
+ },
+ {
+   "city": "Manaus",
+   "country": "Brazil",
+   "lat": -5,
+   "lon": -60
+ },
+ {
+   "city": "Buenos Aires",
+   "country": "Argentina",
+   "lat": -35,
+   "lon": -60
+ },
+ {
+   "city": "Stanley",
+   "country": "United Kingdom",
+   "lat": -50,
+   "lon": -60
+ },
+ {
+   "city": "Asunción",
+   "country": "Paraguay",
+   "lat": -25,
+   "lon": -60
+ },
+ {
+   "city": "Montevideo",
+   "country": "Uruguay",
+   "lat": -35,
+   "lon": -55
+ },
+ {
+   "city": "Cuiabá",
+   "country": "Brazil",
+   "lat": -15,
+   "lon": -55
+ },
+ {
+   "city": "Sinop",
+   "country": "Brazil",
+   "lat": -10,
+   "lon": -55
+ },
+ {
+   "city": "Ciudad del Este",
+   "country": "Paraguay",
+   "lat": -25,
+   "lon": -55
+ },
+ {
+   "city": "Campo Grande",
+   "country": "Brazil",
+   "lat": -20,
+   "lon": -55
+ },
+ {
+   "city": "Chuí",
+   "country": "Brazil",
+   "lat": -35,
+   "lon": -55
+ },
+ {
+   "city": "Pelotas",
+   "country": "Brazil",
+   "lat": -30,
+   "lon": -50
+ },
+ {
+   "city": "Porto Alegre",
+   "country": "Brazil",
+   "lat": -30,
+   "lon": -50
+ },
+ {
+   "city": "Assis",
+   "country": "Brazil",
+   "lat": -25,
+   "lon": -50
+ },
+ {
+   "city": "São José do Rio Preto",
+   "country": "Brazil",
+   "lat": -20,
+   "lon": -50
+ },
+ {
+   "city": "Goiânia",
+   "country": "Brazil",
+   "lat": -15,
+   "lon": -50
+ },
+ {
+   "city": "Curitiba",
+   "country": "Brazil",
+   "lat": -25,
+   "lon": -50
+ },
+ {
+   "city": "Bauru",
+   "country": "Brazil",
+   "lat": -20,
+   "lon": -50
+ },
+ {
+   "city": "Belém",
+   "country": "Brazil",
+   "lat": 0,
+   "lon": -50
+ },
+ {
+   "city": "Florianópolis",
+   "country": "Brazil",
+   "lat": -30,
+   "lon": -50
+ },
+ {
+   "city": "Palmas",
+   "country": "Brazil",
+   "lat": -10,
+   "lon": -50
+ },
+ {
+   "city": "Uberlândia",
+   "country": "Brazil",
+   "lat": -20,
+   "lon": -50
+ },
+ {
+   "city": "Araraquara",
+   "country": "Brazil",
+   "lat": -20,
+   "lon": -50
+ },
+ {
+   "city": "Brasília",
+   "country": "Brazil",
+   "lat": -15,
+   "lon": -50
+ },
+ {
+   "city": "Ribeirão Preto",
+   "country": "Brazil",
+   "lat": -20,
+   "lon": -50
+ },
+ {
+   "city": "Imperatriz",
+   "country": "Brazil",
+   "lat": -5,
+   "lon": -45
+ },
+ {
+   "city": "Campinas",
+   "country": "Brazil",
+   "lat": -25,
+   "lon": -45
+ },
+ {
+   "city": "São Paulo",
+   "country": "Brazil",
+   "lat": -25,
+   "lon": -45
+ },
+ {
+   "city": "Poços de Caldas",
+   "country": "Brazil",
+   "lat": -20,
+   "lon": -45
+ },
+ {
+   "city": "São José dos Campos",
+   "country": "Brazil",
+   "lat": -25,
+   "lon": -45
+ },
+ {
+   "city": "São Luís",
+   "country": "Brazil",
+   "lat": -5,
+   "lon": -45
+ },
+ {
+   "city": "Belo Horizonte",
+   "country": "Brazil",
+   "lat": -20,
+   "lon": -45
+ },
+ {
+   "city": "Juiz de Fora",
+   "country": "Brazil",
+   "lat": -20,
+   "lon": -45
+ },
+ {
+   "city": "Rio de Janeiro",
+   "country": "Brazil",
+   "lat": -25,
+   "lon": -45
+ },
+ {
+   "city": "Teresina",
+   "country": "Brazil",
+   "lat": -5,
+   "lon": -45
+ },
+ {
+   "city": "Governador Valadares",
+   "country": "Brazil",
+   "lat": -20,
+   "lon": -40
+ },
+ {
+   "city": "Petrolina",
+   "country": "Brazil",
+   "lat": -10,
+   "lon": -40
+ },
+ {
+   "city": "Vitória",
+   "country": "Brazil",
+   "lat": -20,
+   "lon": -40
+ },
+ {
+   "city": "Sobral",
+   "country": "Brazil",
+   "lat": -5,
+   "lon": -40
+ },
+ {
+   "city": "Juazeiro do Norte",
+   "country": "Brazil",
+   "lat": -5,
+   "lon": -40
+ },
+ {
+   "city": "Ilhéus",
+   "country": "Brazil",
+   "lat": -15,
+   "lon": -40
+ },
+ {
+   "city": "Fortaleza",
+   "country": "Brazil",
+   "lat": -5,
+   "lon": -40
+ },
+ {
+   "city": "Salvador",
+   "country": "Brazil",
+   "lat": -15,
+   "lon": -40
+ },
+ {
+   "city": "Aracaju",
+   "country": "Brazil",
+   "lat": -10,
+   "lon": -35
+ },
+ {
+   "city": "Grytviken",
+   "country": "United Kingdom",
+   "lat": -55,
+   "lon": -35
+ },
+ {
+   "city": "Garanhuns",
+   "country": "Brazil",
+   "lat": -10,
+   "lon": -35
+ },
+ {
+   "city": "Caruaru",
+   "country": "Brazil",
+   "lat": -10,
+   "lon": -35
+ },
+ {
+   "city": "Campina Grande",
+   "country": "Brazil",
+   "lat": -5,
+   "lon": -35
+ },
+ {
+   "city": "Maceió",
+   "country": "Brazil",
+   "lat": -10,
+   "lon": -35
+ },
+ {
+   "city": "Natal",
+   "country": "Brazil",
+   "lat": -5,
+   "lon": -35
+ },
+ {
+   "city": "Recife",
+   "country": "Brazil",
+   "lat": -10,
+   "lon": -35
+ },
+ {
+   "city": "João Pessoa",
+   "country": "Brazil",
+   "lat": -5,
+   "lon": -35
+ },
+ {
+   "city": "Fernando de Noronha",
+   "country": "Brazil",
+   "lat": -5,
+   "lon": -30
+ },
+ {
+   "city": "Jamestown",
+   "country": "United Kingdom",
+   "lat": -15,
+   "lon": -5
+ },
+ {
+   "city": "Luanda",
+   "country": "Angola",
+   "lat": -10,
+   "lon": 15
+ },
+ {
+   "city": "Brazzaville",
+   "country": "Republic of the Congo",
+   "lat": -5,
+   "lon": 15
+ },
+ {
+   "city": "Kinshasa",
+   "country": "Democratic Republic of the Congo",
+   "lat": -5,
+   "lon": 15
+ },
+ {
+   "city": "Huambo",
+   "country": "Angola",
+   "lat": -15,
+   "lon": 15
+ },
+ {
+   "city": "Windhoek",
+   "country": "Namibia",
+   "lat": -25,
+   "lon": 15
+ },
+ {
+   "city": "Cape Town",
+   "country": "South Africa",
+   "lat": -35,
+   "lon": 20
+ },
+ {
+   "city": "Kimberley",
+   "country": "South Africa",
+   "lat": -30,
+   "lon": 25
+ },
+ {
+   "city": "Port Elizabeth",
+   "country": "South Africa",
+   "lat": -35,
+   "lon": 25
+ },
+ {
+   "city": "Mafikeng",
+   "country": "South Africa",
+   "lat": -25,
+   "lon": 25
+ },
+ {
+   "city": "Livingstone",
+   "country": "Zambia",
+   "lat": -20,
+   "lon": 25
+ },
+ {
+   "city": "Gaborone",
+   "country": "Botswana",
+   "lat": -25,
+   "lon": 25
+ },
+ {
+   "city": "Bloemfontein",
+   "country": "South Africa",
+   "lat": -30,
+   "lon": 25
+ },
+ {
+   "city": "Bhisho",
+   "country": "South Africa",
+   "lat": -35,
+   "lon": 25
+ },
+ {
+   "city": "Lubumbashi",
+   "country": "Democratic Republic of the Congo",
+   "lat": -10,
+   "lon": 25
+ },
+ {
+   "city": "Maseru",
+   "country": "Lesotho",
+   "lat": -30,
+   "lon": 25
+ },
+ {
+   "city": "Francistown",
+   "country": "Botswana",
+   "lat": -20,
+   "lon": 30
+ },
+ {
+   "city": "Johannesburg",
+   "country": "South Africa",
+   "lat": -25,
+   "lon": 30
+ },
+ {
+   "city": "Pretoria",
+   "country": "South Africa",
+   "lat": -25,
+   "lon": 30
+ },
+ {
+   "city": "Lusaka",
+   "country": "Zambia",
+   "lat": -15,
+   "lon": 30
+ },
+ {
+   "city": "Bulawayo",
+   "country": "Zimbabwe",
+   "lat": -20,
+   "lon": 30
+ },
+ {
+   "city": "Ndola",
+   "country": "Zambia",
+   "lat": -15,
+   "lon": 30
+ },
+ {
+   "city": "Bujumbura",
+   "country": "Burundi",
+   "lat": -5,
+   "lon": 30
+ },
+ {
+   "city": "Polokwane",
+   "country": "South Africa",
+   "lat": -25,
+   "lon": 30
+ },
+ {
+   "city": "Gweru",
+   "country": "Zimbabwe",
+   "lat": -20,
+   "lon": 30
+ },
+ {
+   "city": "Kigali",
+   "country": "Rwanda",
+   "lat": 0,
+   "lon": 30
+ },
+ {
+   "city": "Pietermaritzburg",
+   "country": "South Africa",
+   "lat": -30,
+   "lon": 30
+ },
+ {
+   "city": "Nelspruit",
+   "country": "South Africa",
+   "lat": -25,
+   "lon": 30
+ },
+ {
+   "city": "Harare",
+   "country": "Zimbabwe",
+   "lat": -20,
+   "lon": 30
+ },
+ {
+   "city": "Durban",
+   "country": "South Africa",
+   "lat": -30,
+   "lon": 30
+ },
+ {
+   "city": "Mbabane",
+   "country": "Swaziland",
+   "lat": -25,
+   "lon": 30
+ },
+ {
+   "city": "Lobamba",
+   "country": "Swaziland",
+   "lat": -25,
+   "lon": 30
+ },
+ {
+   "city": "Manzini",
+   "country": "Swaziland",
+   "lat": -25,
+   "lon": 30
+ },
+ {
+   "city": "Mutare",
+   "country": "Zimbabwe",
+   "lat": -20,
+   "lon": 35
+ },
+ {
+   "city": "Maputo",
+   "country": "Mozambique",
+   "lat": -25,
+   "lon": 35
+ },
+ {
+   "city": "Mwanza",
+   "country": "Tanzania",
+   "lat": -5,
+   "lon": 35
+ },
+ {
+   "city": "Lilongwe",
+   "country": "Malawi",
+   "lat": -15,
+   "lon": 35
+ },
+ {
+   "city": "Blantyre",
+   "country": "Malawi",
+   "lat": -15,
+   "lon": 35
+ },
+ {
+   "city": "Dodoma",
+   "country": "Tanzania",
+   "lat": -5,
+   "lon": 35
+ },
+ {
+   "city": "Nairobi",
+   "country": "Kenya",
+   "lat": 0,
+   "lon": 35
+ },
+ {
+   "city": "Zanzibar City",
+   "country": "Tanzania",
+   "lat": -5,
+   "lon": 40
+ },
+ {
+   "city": "Dar es Salaam",
+   "country": "Tanzania",
+   "lat": -5,
+   "lon": 40
+ },
+ {
+   "city": "Mombasa",
+   "country": "Kenya",
+   "lat": -5,
+   "lon": 40
+ },
+ {
+   "city": "Kismayo",
+   "country": "Somalia",
+   "lat": 0,
+   "lon": 45
+ },
+ {
+   "city": "Moroni",
+   "country": "Comoros",
+   "lat": -10,
+   "lon": 45
+ },
+ {
+   "city": "Mamoudzou",
+   "country": "France",
+   "lat": -15,
+   "lon": 45
+ },
+ {
+   "city": "Antananarivo",
+   "country": "Madagascar",
+   "lat": -20,
+   "lon": 50
+ },
+ {
+   "city": "Saint-Denis",
+   "country": "France",
+   "lat": -20,
+   "lon": 55
+ },
+ {
+   "city": "Victoria",
+   "country": "Seychelles",
+   "lat": -5,
+   "lon": 55
+ },
+ {
+   "city": "Port Louis",
+   "country": "Mauritius",
+   "lat": -20,
+   "lon": 60
+ },
+ {
+   "city": "Padang",
+   "country": "Indonesia",
+   "lat": 0,
+   "lon": 100
+ },
+ {
+   "city": "Palembang",
+   "country": "Indonesia",
+   "lat": -5,
+   "lon": 105
+ },
+ {
+   "city": "Jakarta",
+   "country": "Indonesia",
+   "lat": -5,
+   "lon": 105
+ },
+ {
+   "city": "Bogor",
+   "country": "Indonesia",
+   "lat": -5,
+   "lon": 105
+ },
+ {
+   "city": "Bandung",
+   "country": "Indonesia",
+   "lat": -5,
+   "lon": 110
+ },
+ {
+   "city": "Pontianak",
+   "country": "Indonesia",
+   "lat": 0,
+   "lon": 110
+ },
+ {
+   "city": "Yogyakarta",
+   "country": "Indonesia",
+   "lat": -10,
+   "lon": 110
+ },
+ {
+   "city": "Semarang",
+   "country": "Indonesia",
+   "lat": -5,
+   "lon": 110
+ },
+ {
+   "city": "Malang",
+   "country": "Indonesia",
+   "lat": -10,
+   "lon": 115
+ },
+ {
+   "city": "Surabaya",
+   "country": "Indonesia",
+   "lat": -5,
+   "lon": 115
+ },
+ {
+   "city": "Denpasar",
+   "country": "Indonesia",
+   "lat": -10,
+   "lon": 115
+ },
+ {
+   "city": "Mandurah",
+   "country": "Australia",
+   "lat": -35,
+   "lon": 115
+ },
+ {
+   "city": "Perth",
+   "country": "Australia",
+   "lat": -30,
+   "lon": 115
+ },
+ {
+   "city": "Balikpapan",
+   "country": "Indonesia",
+   "lat": 0,
+   "lon": 115
+ },
+ {
+   "city": "Port Hedland",
+   "country": "Australia",
+   "lat": -20,
+   "lon": 120
+ },
+ {
+   "city": "Makassar",
+   "country": "Indonesia",
+   "lat": -5,
+   "lon": 120
+ },
+ {
+   "city": "Dili",
+   "country": "Timor-Leste",
+   "lat": -10,
+   "lon": 125
+ },
+ {
+   "city": "Ambon",
+   "country": "Indonesia",
+   "lat": -5,
+   "lon": 130
+ },
+ {
+   "city": "Darwin",
+   "country": "Australia",
+   "lat": -10,
+   "lon": 130
+ },
+ {
+   "city": "Adelaide",
+   "country": "Australia",
+   "lat": -35,
+   "lon": 140
+ },
+ {
+   "city": "Jayapura",
+   "country": "Indonesia",
+   "lat": -5,
+   "lon": 140
+ },
+ {
+   "city": "Geelong",
+   "country": "Australia",
+   "lat": -40,
+   "lon": 145
+ },
+ {
+   "city": "Melbourne",
+   "country": "Australia",
+   "lat": -40,
+   "lon": 145
+ },
+ {
+   "city": "Cairns",
+   "country": "Australia",
+   "lat": -15,
+   "lon": 145
+ },
+ {
+   "city": "Townsville",
+   "country": "Australia",
+   "lat": -20,
+   "lon": 145
+ },
+ {
+   "city": "Port Moresby",
+   "country": "Papua New Guinea",
+   "lat": -10,
+   "lon": 145
+ },
+ {
+   "city": "Hobart",
+   "country": "Australia",
+   "lat": -45,
+   "lon": 145
+ },
+ {
+   "city": "Canberra",
+   "country": "Australia",
+   "lat": -35,
+   "lon": 150
+ },
+ {
+   "city": "Rockhampton",
+   "country": "Australia",
+   "lat": -25,
+   "lon": 150
+ },
+ {
+   "city": "Wollongong",
+   "country": "Australia",
+   "lat": -35,
+   "lon": 150
+ },
+ {
+   "city": "Sydney",
+   "country": "Australia",
+   "lat": -35,
+   "lon": 150
+ },
+ {
+   "city": "Newcastle",
+   "country": "Australia",
+   "lat": -35,
+   "lon": 150
+ },
+ {
+   "city": "Brisbane",
+   "country": "Australia",
+   "lat": -25,
+   "lon": 155
+ },
+ {
+   "city": "Gold Coast",
+   "country": "Australia",
+   "lat": -30,
+   "lon": 155
+ },
+ {
+   "city": "Honiara",
+   "country": "Solomon Islands",
+   "lat": -10,
+   "lon": 160
+ },
+ {
+   "city": "Nouméa",
+   "country": "France",
+   "lat": -20,
+   "lon": 165
+ },
+ {
+   "city": "Yaren District",
+   "country": "Nauru",
+   "lat": 0,
+   "lon": 165
+ },
+ {
+   "city": "Kingston",
+   "country": "Australia",
+   "lat": -30,
+   "lon": 170
+ },
+ {
+   "city": "Port Vila",
+   "country": "Vanuatu",
+   "lat": -20,
+   "lon": 170
+ },
+ {
+   "city": "Invercargill",
+   "country": "New Zealand",
+   "lat": -45,
+   "lon": 170
+ },
+ {
+   "city": "Dunedin",
+   "country": "New Zealand",
+   "lat": -45,
+   "lon": 170
+ },
+ {
+   "city": "Christchurch",
+   "country": "New Zealand",
+   "lat": -45,
+   "lon": 175
+ },
+ {
+   "city": "Nelson",
+   "country": "New Zealand",
+   "lat": -40,
+   "lon": 175
+ },
+ {
+   "city": "Auckland",
+   "country": "New Zealand",
+   "lat": -35,
+   "lon": 175
+ },
+ {
+   "city": "Wellington",
+   "country": "New Zealand",
+   "lat": -40,
+   "lon": 175
+ },
+ {
+   "city": "Hamilton",
+   "country": "New Zealand",
+   "lat": -40,
+   "lon": 175
+ },
+ {
+   "city": "Hastings",
+   "country": "New Zealand",
+   "lat": -40,
+   "lon": 175
+ },
+ {
+   "city": "Suva",
+   "country": "Fiji",
+   "lat": -20,
+   "lon": 180
+ },
+ {
+   "city": "Funafuti",
+   "country": "Tuvalu",
+   "lat": -10,
+   "lon": 180
+ },
+ {
+   "city": "Labasa",
+   "country": "Fiji",
+   "lat": -15,
+   "lon": 180
+ },
+ {
+   "city": "Nukulaelae",
+   "country": "Tuvalu",
+   "lat": -10,
+   "lon": 180
+ },
+  {
+    "city": "Lapland",
+    "country": "Finland",
+    "lat": 66,
+    "lon": 25
+  },
+  {
+    "city": "Nakuru",
+    "country": "Kenya",
+    "lat": -0.2833,
+    "lon": 36
+  },
+  {
+    "city": "Reykjavik",
+    "country": "Iceland",
+    "lat": 64,
+    "lon": 21
+  },
+  {
+    "city": "Mombasa",
+    "country": "Kenya",
+    "lat": -4.04,
+    "lon": 39.65
+  }
+]
