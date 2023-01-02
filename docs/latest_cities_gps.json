@@ -5728,5 +5728,11 @@
     "country": "Canada",
     "lat": 43.255203,
     "lon": -79.843826
+  },
+  {
+    "city": "Kisumu",
+    "country": "Kenya",
+    "lat": -0.10221,
+    "lon": 34.76171
   }
 ]
