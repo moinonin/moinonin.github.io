@@ -6662,5 +6662,12 @@
     "country": "Kenya",
     "lat": 0.3,
     "lon": 36
+  },
+  {
+    "index": 952,
+    "city": "Reykjavik",
+    "country": "Iceland",
+    "lat": 64,
+    "lon": 21
   }
 ]
