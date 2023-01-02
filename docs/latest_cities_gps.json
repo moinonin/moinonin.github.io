@@ -5722,5 +5722,11 @@
     "country": "Kenya",
     "lat": -4.04,
     "lon": 39.65
+  },
+  {
+    "city": "Hamilton",
+    "country": "Canada",
+    "lat": 43.255203,
+    "lon": -79.843826
   }
 ]
