@@ -6648,5 +6648,12 @@
     "country": "Tuvalu",
     "lat": 9,
     "lon": 179
+  },
+  {
+    "index": 950,
+    "city": "Lapland",
+    "country": "Finland",
+    "lat": 66,
+    "lon": 25
   }
 ]
