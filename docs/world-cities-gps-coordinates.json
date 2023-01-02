@@ -6655,5 +6655,12 @@
     "country": "Finland",
     "lat": 66,
     "lon": 25
+  },
+  {
+    "index": 951,
+    "city": "Nakuru",
+    "country": "Kenya",
+    "lat": 0.3,
+    "lon": 36
   }
 ]
