@@ -5346,12 +5346,6 @@
    "lon": 40
  },
  {
-   "city": "Mombasa",
-   "country": "Kenya",
-   "lat": -5,
-   "lon": 40
- },
- {
    "city": "Kismayo",
    "country": "Somalia",
    "lat": 0,
@@ -5710,12 +5704,6 @@
     "country": "Kenya",
     "lat": -0.2833,
     "lon": 36
-  },
-  {
-    "city": "Reykjavik",
-    "country": "Iceland",
-    "lat": 64,
-    "lon": 21
   },
   {
     "city": "Mombasa",
