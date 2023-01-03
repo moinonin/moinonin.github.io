@@ -5734,5 +5734,11 @@
     "country": "Kenya",
     "lat": -0.10221,
     "lon": 34.76171
+  },
+  {
+    "city": "Denver",
+    "country": "United States",
+    "lat": 39.7348,
+    "lon": -104.9653
   }
 ]
