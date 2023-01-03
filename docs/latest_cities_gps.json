@@ -5728,5 +5728,11 @@
     "country": "United States",
     "lat": 39.7348,
     "lon": -104.9653
+  },
+  {
+    "city": "Loitoktok",
+    "country": "Kenya",
+    "lat": -3.0453,
+    "lon": 37.69083
   }
 ]
