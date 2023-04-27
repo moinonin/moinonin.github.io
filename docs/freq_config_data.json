@@ -13,6 +13,7 @@
     "trailing_stop": "false",
     "amend_last_stake_amount": "true",
     "dry_run": "false",
+    "ignore_buying_expired_candle_after": 1200,
     "unfilledtimeout": {
         "entry": 10,
         "exit": 20
@@ -330,6 +331,7 @@
     "trailing_stop": "false",
     "amend_last_stake_amount": "true",
     "dry_run": "false",
+    "ignore_buying_expired_candle_after": 1200,
     "unfilledtimeout": {
         "entry": 10,
         "exit": 20
@@ -515,6 +517,7 @@
     "trailing_stop": "false",
     "amend_last_stake_amount": "true",
     "dry_run": "false",
+    "ignore_buying_expired_candle_after": 1200,
     "position_adjustment_enable": "true",
     "unfilledtimeout": {
         "entry": 10,
@@ -769,6 +772,7 @@
     "trailing_stop": "false",
     "amend_last_stake_amount": "true",
     "dry_run": "false",
+    "ignore_buying_expired_candle_after": 1200,
     "unfilledtimeout": {
         "entry": 10,
         "exit": 20
@@ -984,6 +988,7 @@
     "trailing_stop": "false",
     "amend_last_stake_amount": "false",
     "dry_run": "false",
+    "ignore_buying_expired_candle_after": 1200,
     "position_adjustment_enable": "true",
     "trading_mode": "futures",
     "margin_mode": "isolated",
