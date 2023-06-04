@@ -255,7 +255,7 @@
     },
     "pairlists": [
         {"method": "StaticPairList"},
-        {"method": "PriceFilter", "low_price_ratio": 0.20},
+        {"method": "PriceFilter", "low_price_ratio": 0.20, "min_price": 0.0000003},
         {"method": "ShuffleFilter", "seed": 42}
     ],
     "edge": {
