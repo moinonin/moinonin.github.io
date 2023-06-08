@@ -970,7 +970,7 @@
     "trailing_stop": "false",
     "amend_last_stake_amount": "false",
     "dry_run": "false",
-    "ignore_buying_expired_candle_after": 1200,
+    "ignore_buying_expired_candle_after": 120,
     "position_adjustment_enable": "true",
     "trading_mode": "futures",
     "margin_mode": "isolated",
