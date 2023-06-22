@@ -509,8 +509,8 @@
     "ignore_buying_expired_candle_after": 1200,
     "position_adjustment_enable": "true",
     "unfilledtimeout": {
-        "entry": 3,
-        "exit": 6
+        "entry": 10,
+        "exit": 20
     },
     "entry_pricing": {
         "price_side": "bid",
