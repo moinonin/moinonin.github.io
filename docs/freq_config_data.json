@@ -699,7 +699,7 @@
         {
             "method": "PerformanceFilter",
             "minutes": 120960,
-            "min_profit": 0.001
+            "min_profit": 0.00
         }
     ],
     "edge": {
