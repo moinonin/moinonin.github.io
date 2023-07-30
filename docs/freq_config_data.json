@@ -578,7 +578,7 @@
         {"method": "StaticPairList"},
         {"method": "PriceFilter", "low_price_ratio": 0.2, "min_price": 0.0000003},
         {"method": "PriceFilter"},
-        {"method": "ShuffleFilter", "seed": 42},
+        {"method": "ShuffleFilter", "seed": 42}
     ],
     "edge": {
         "enabled": "false",
