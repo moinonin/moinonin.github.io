@@ -835,7 +835,7 @@
   {
     "max_open_trades": 0,
     "stake_currency": "",
-    "stake_amount": 0,
+    "stake_amount": "",
     "tradable_balance_ratio": 0.99,
     "fiat_display_currency": "USD",
     "timeframe": "3m",
