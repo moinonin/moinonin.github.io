@@ -892,32 +892,7 @@
         "ccxt_config": {},
         "ccxt_async_config": {},
         "pair_whitelist": [
-            "BTC/USDT:USDT",
-            "LTC/USDT:USDT",
-            "BNB/USDT:USDT",
-            "ETH/USDT:USDT",
-            "ALGO/USDT:USDT",
-            "BCH/USDT:USDT",
-            "SOL/USDT:USDT",
-            "XRP/USDT:USDT",
-            "ADA/USDT:USDT",
-            "MKR/USDT:USDT",
-            "CRV/USDT:USDT",
-            "QTUM/USDT:USDT",
-            "MATIC/USDT:USDT",
-            "LINK/USDT:USDT",
-            "MTL/USDT:USDT",
-            "STMX/USDT:USDT",
-            "TOMO/USDT:USDT",
-            "OGN/USDT:USDT",
-            "XLM/USDT:USDT",
-            "UNI/USDT:USDT",
-            "AAVE/USDT:USDT",
-            "FTM/USDT:USDT",
-            "INJ/USDT:USDT",
-            "LDO/USDT:USDT",
-            "DYDX/USDT:USDT",
-            "1000SHIB/USDT:USDT"
+            "BTC/USDT:USDT"
 
         ],
         "pair_blacklist": [
