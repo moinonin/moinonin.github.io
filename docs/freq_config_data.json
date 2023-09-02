@@ -917,7 +917,15 @@
             "INJ/USDT:USDT",
             "LDO/USDT:USDT",
             "DYDX/USDT:USDT",
-            "1000SHIB/USDT:USDT"
+            "1000SHIB/USDT:USDT",
+            "UNFI/USDT:USDT",
+            "TRB/USDT:USDT",
+            "API3/USDT:USDT",
+            "OP/USDT:USDT",
+            "RUNE/USDT:USDT",
+            "LPT/USDT:USDT",
+            "APE/USDT:USDT",
+            "APT/USDT:USDT"
 
         ],
         "pair_blacklist": [
