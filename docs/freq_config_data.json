@@ -927,7 +927,9 @@
             "APE/USDT:USDT",
             "APT/USDT:USDT",
             "BAKE/USDT:USDT",
-            "EGLD/USDT:USDT"
+            "EGLD/USDT:USDT",
+            "BLZ/USDT:USDT",
+            "DOGE/USDT:USDT"
 
         ],
         "pair_blacklist": [
