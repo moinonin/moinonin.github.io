@@ -925,7 +925,9 @@
             "RUNE/USDT:USDT",
             "LPT/USDT:USDT",
             "APE/USDT:USDT",
-            "APT/USDT:USDT"
+            "APT/USDT:USDT",
+            "BAKE/USDT:USDT",
+            "EGLD/USDT:USDT"
 
         ],
         "pair_blacklist": [
