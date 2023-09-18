@@ -929,7 +929,9 @@
             "BAKE/USDT:USDT",
             "EGLD/USDT:USDT",
             "BLZ/USDT:USDT",
-            "DOGE/USDT:USDT"
+            "DOGE/USDT:USDT",
+            "AVAX/USDT:USDT",
+            "COMP/USDT:USDT"
 
         ],
         "pair_blacklist": [
