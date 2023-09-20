@@ -852,7 +852,9 @@
     "margin_mode": "isolated",
     "unfilledtimeout": {
         "entry": 3,
-        "exit": 6
+        "exit": 6,
+        "exit_timeout_count": 0,
+        "unit": "minutes"
     },
     "entry_pricing": {
         "price_side": "same",
