@@ -896,7 +896,6 @@
             "LTC/USDT:USDT",
             "BNB/USDT:USDT",
             "ETH/USDT:USDT",
-            "ALGO/USDT:USDT",
             "BCH/USDT:USDT",
             "SOL/USDT:USDT",
             "XRP/USDT:USDT",
@@ -931,7 +930,15 @@
             "BLZ/USDT:USDT",
             "DOGE/USDT:USDT",
             "AVAX/USDT:USDT",
-            "COMP/USDT:USDT"
+            "COMP/USDT:USDT",
+            "WAVES/USDT:USDT",
+            "STORJ/USDT:USDT",
+            "DOT/USDT:USDT",
+            "ATOM/USDT:USDT",
+            "ETC/USDT:USDT",
+            "SXP/USDT:USDT",
+            "AXS/USDT:USDT",
+            "EOS/USDT:USDT"
 
         ],
         "pair_blacklist": [
