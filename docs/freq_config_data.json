@@ -940,7 +940,8 @@
             "ETC/USDT:USDT",
             "SXP/USDT:USDT",
             "AXS/USDT:USDT",
-            "EOS/USDT:USDT"
+            "EOS/USDT:USDT",
+            "BAL/USDT:USDT"
 
         ],
         "pair_blacklist": [
