@@ -946,7 +946,11 @@
             "IOTX/USDT:USDT",
             "COTI/USDT:USDT",
             "NMR/USDT:USDT",
-            "CTSI/USDT:USDT"
+            "CTSI/USDT:USDT",
+            "LOOM/USDT:USDT",
+            "ARK/USDT:USDT",
+            "NEO/USDT:USDT",
+            "GAS/USDT:USDT"
 
         ],
         "pair_blacklist": [
