@@ -894,7 +894,6 @@
         "ccxt_config": {},
         "ccxt_async_config": {},
         "pair_whitelist": [
-            "BTC/USDT:USDT",
             "1000FLOKI/USDT:USDT",
             "1000LUNC/USDT:USDT",
             "1000PEPE/USDT:USDT",
