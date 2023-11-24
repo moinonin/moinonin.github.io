@@ -946,7 +946,18 @@
             "IOTX/USDT:USDT",
             "COTI/USDT:USDT",
             "NMR/USDT:USDT",
-            "CTSI/USDT:USDT"
+            "CTSI/USDT:USDT",
+            "GAS/USDT:USDT",
+            "SUSHI/USDT:USDT",
+            "AVAX/USDT:USDT",
+            "MINA/USDT:USDT",
+            "NEAR/USDT:USDT",
+            "ARK/USDT:USDT",
+            "STRAX/USDT:USDT",
+            "ATOM/USDT:USDT",
+            "NEO/USDT:USDT",
+            "FIL/USDT:USDT",
+            "YFI/USDT:USDT"
 
         ],
         "pair_blacklist": [
