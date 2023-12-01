@@ -957,7 +957,10 @@
             "ATOM/USDT:USDT",
             "NEO/USDT:USDT",
             "FIL/USDT:USDT",
-            "YFI/USDT:USDT"
+            "YFI/USDT:USDT",
+            "RNDR/USDT:USDT",
+            "HOOK/USDT:USDT",
+            "IOTA/USDT:USDT"
 
         ],
         "pair_blacklist": [
