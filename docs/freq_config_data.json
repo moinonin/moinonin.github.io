@@ -883,7 +883,7 @@
     "order_types": {
         "entry": "limit",
         "exit": "limit",
-        "emergency_exit": "market",
+        "emergency_exit": "limit",
         "force_exit": "limit",
         "force_entry": "limit",
         "stoploss": "market",
