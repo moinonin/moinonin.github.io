@@ -1056,8 +1056,8 @@
     "dry_run": "false",
     "ignore_buying_expired_candle_after": 600,
     "unfilledtimeout": {
-        "entry": 10,
-        "exit": 20
+        "entry": 3,
+        "exit": 6
     },
     "entry_pricing": {
         "price_side": "bid",
