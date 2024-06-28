@@ -1039,5 +1039,210 @@
     "strategy_path": "",
     "dataformat_ohlcv": "json",
     "dataformat_trades": "jsongz"
+  },
+  {
+    "max_open_trades": 0,
+    "stake_currency": "",
+    "stake_amount": 0,
+    "tradable_balance_ratio": 0.99,
+    "fiat_display_currency": "USD",
+    "timeframe": "15m",
+    "use_exit_signal": "true",
+    "exit_profit_only": "false",
+    "exit_profit_offset": 0,
+    "ignore_roi_if_entry_signal": "false",
+    "trailing_stop": "false",
+    "amend_last_stake_amount": "true",
+    "dry_run": "false",
+    "ignore_buying_expired_candle_after": 600,
+    "unfilledtimeout": {
+        "entry": 10,
+        "exit": 20
+    },
+    "entry_pricing": {
+        "price_side": "bid",
+        "ask_last_balance": 0.0,
+        "use_order_book": "true",
+        "order_book_top": 1,
+        "check_depth_of_market": {
+            "enabled": "true",
+            "bids_to_ask_delta": 0
+        }
+    },
+    "order_types": {
+        "entry": "limit",
+        "exit": "limit",
+        "emergency_exit": "limit",
+        "stoploss": "limit",
+        "force_exit": "limit",
+        "order_time_in_force": {
+            "entry": "gtc",
+            "exit": "gtc"
+        },
+        "stoploss_on_exchange": "true",
+        "stoploss_on_exchange_interval": 60,
+        "stoploss_on_exchange_limit_ratio": 0.99
+    },
+    "exit_pricing": {
+        "price_side": "ask",
+        "use_order_book": "true",
+        "order_book_top": 1,
+        "unfilledtimeout": 1
+    },
+    "exchange": {
+        "name": "",
+        "key": "",
+        "secret": "",
+        "ccxt_config": {
+            "enableRateLimit": "true"
+            },
+        "ccxt_async_config": {
+            "enableRateLimit": "true"
+        },
+        "pair_whitelist": [
+            "ADA/USDC",
+            "ALGO/USDC",
+            "ALT/USDC",
+            "APT/USDC",
+            "AR/USDC",
+            "ARB/USDC",
+            "ARKM/USDC",
+            "ATOM/USDC",
+            "AVAX/USDC",
+            "BB/USDC",
+            "BCH/USDC",
+            "BLUR/USDC",
+            "BNB/USDC",
+            "BOME/USDC",
+            "BONK/USDC",
+            "BTC/USDC",
+            "CFX/USDC",
+            "CKB/USDC",
+            "CRV/USDC",
+            "DOGE/USDC",
+            "DOT/USDC",
+            "ENA/USDC",
+            "ENS/USDC",
+            "EOS/USDC",
+            "ETH/USDC",
+            "ETHFI/USDC",
+            "FET/USDC",
+            "FIL/USDC",
+            "FLOKI/USDC",
+            "FRONT/USDC",
+            "FTM/USDC",
+            "GALA/USDC",
+            "ICP/USDC",
+            "INJ/USDC",
+            "JTO/USDC",
+            "JUP/USDC",
+            "LDO/USDC",
+            "LINK/USDC",
+            "LTC/USDC",
+            "MANTA/USDC",
+            "MATIC/USDC",
+            "NEAR/USDC",
+            "NEO/USDC",
+            "NOT/USDC",
+            "OMNI/USDC",
+            "ONT/USDC",
+            "OP/USDC",
+            "ORDI/USDC",
+            "PENDLE/USDC",
+            "PEOPLE/USDC",
+            "PEPE/USDC",
+            "PIXEL/USDC",
+            "REZ/USDC",
+            "RNDR/USDC",
+            "RUNE/USDC",
+            "SAGA/USDC",
+            "SEI/USDC",
+            "SHIB/USDC",
+            "SOL/USDC",
+            "STRK/USDC",
+            "STX/USDC",
+            "SUI/USDC",
+            "TIA/USDC",
+            "TNSR/USDC",
+            "TRB/USDC",
+            "UNI/USDC",
+            "WIF/USDC",
+            "WLD/USDC",
+            "XRP/USDC",
+            "YGG/USDC"
+
+
+        ],
+        "pair_blacklist": [
+            "BNB/BUSD",
+            "BNB/ETH",
+            "BNB/EUR",
+            "BNB/NGN",
+            "BNB/PAX",
+            "BNB/RUB",
+            "BNB/TRY",
+            "BNB/TUSD",
+            "BNB/USDC",
+            "BNB/USDS",
+            "BNB/USDT",
+            "EUR/USDC"
+        ]
+    },
+    "pairlists": [
+        {"method": "StaticPairList"},
+        {"method": "PriceFilter", "low_price_ratio": 0.20, "min_price": 0.0000003},
+        {"method": "ShuffleFilter", "seed": 42}
+    ],
+    "edge": {
+        "enabled": "false",
+        "process_throttle_secs": 3600,
+        "calculate_since_number_of_days": 7,
+        "allowed_risk": 0,
+        "stoploss_range_min": -0.40,
+        "stoploss_range_max": -0.401,
+        "stoploss_range_step": -0.001,
+        "minimum_winrate": -0.99,
+        "minimum_expectancy": -0.99,
+        "min_trade_number": 1,
+        "max_trade_duration_minute": 1440,
+        "remove_pumps": "false"
+    },
+    "telegram": {
+        "enabled": "true",
+        "token": "",
+        "chat_id": "",
+        "notification_settings": {
+        "status": "on",
+        "warning": "on",
+        "startup": "on",
+        "entry": "on",
+        "exit": "on",
+        "entry_cancel": "on",
+        "exit_cancel": "on"
+        }
+    },
+    "api_server": {
+        "enabled": "false",
+        "listen_ip_address": "",
+        "listen_port": 8080,
+        "verbosity": "info",
+        "jwt_secret_key": "",
+        "CORS_origins": [],
+        "username": "",
+        "password": ""
+    },
+    "bot_name": "",
+    "db_url": "",
+    "initial_state": "running",
+    "force_entry_enable": "true",
+    "internals": {
+        "process_throttle_secs": 5,
+        "heartbeat_interval": 60
+    },
+    "disable_dataframe_checks": "false",
+    "strategy": "",
+    "strategy_path": "",
+    "dataformat_ohlcv": "json",
+    "dataformat_trades": "jsongz"
   }
 ]
