@@ -1230,6 +1230,7 @@
     "position_adjustment_enable": "true",
     "trading_mode": "futures",
     "margin_mode": "isolated",
+    "futures_funding_rate": 0,
     "unfilledtimeout": {
         "entry": 3,
         "exit": 6,
