@@ -1,7 +1,7 @@
 [
   {
     "max_open_trades": 0,
-    "stake_currency": "",
+    "stake_currency": "BTC",
     "stake_amount": 0,
     "tradable_balance_ratio": 0.99,
     "fiat_display_currency": "USD",
@@ -293,7 +293,7 @@
 
   {
     "max_open_trades": 0,
-    "stake_currency": "",
+    "stake_currency": "ETH",
     "stake_amount": 0,
     "tradable_balance_ratio": 0.99,
     "fiat_display_currency": "USD",
@@ -489,7 +489,7 @@
   },
   {
     "max_open_trades": 0,
-    "stake_currency": "",
+    "stake_currency": "USDT",
     "stake_amount": 0,
     "tradable_balance_ratio": 0.99,
     "fiat_display_currency": "USD",
@@ -628,7 +628,7 @@
   },
   {
     "max_open_trades": 0,
-    "stake_currency": "",
+    "stake_currency": "BNB",
     "stake_amount": 0,
     "tradable_balance_ratio": 0.99,
     "fiat_display_currency": "USD",
@@ -828,7 +828,7 @@
   },
   {
     "max_open_trades": 0,
-    "stake_currency": "",
+    "stake_currency": "USDT",
     "stake_amount": "",
     "tradable_balance_ratio": 0.99,
     "fiat_display_currency": "USD",
@@ -1009,7 +1009,7 @@
   },
   {
     "max_open_trades": 0,
-    "stake_currency": "",
+    "stake_currency": "USDC",
     "stake_amount": 0,
     "tradable_balance_ratio": 0.99,
     "fiat_display_currency": "USD",
@@ -1214,7 +1214,7 @@
   },
   {
     "max_open_trades": 0,
-    "stake_currency": "",
+    "stake_currency": "USDT",
     "stake_amount": "",
     "tradable_balance_ratio": 0.99,
     "fiat_display_currency": "USD",
@@ -1755,7 +1755,7 @@
   },
   {
     "max_open_trades": 0,
-    "stake_currency": "",
+    "stake_currency": "USDT",
     "stake_amount": "",
     "tradable_balance_ratio": 0.99,
     "fiat_display_currency": "USD",
@@ -2068,7 +2068,7 @@
   },
   {
     "max_open_trades": 0,
-    "stake_currency": "",
+    "stake_currency": "USDT",
     "stake_amount": "",
     "tradable_balance_ratio": 0.99,
     "fiat_display_currency": "USD",
