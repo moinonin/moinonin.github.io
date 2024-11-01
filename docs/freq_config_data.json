@@ -843,7 +843,7 @@
     "margin_mode": "isolated",
     "futures_funding_rate": 0,
     "unfilledtimeout": {
-        "entry": 3,
+        "entry": 8,
         "exit": 6,
         "exit_timeout_count": 0,
         "unit": "minutes"
