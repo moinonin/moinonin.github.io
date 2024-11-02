@@ -45,8 +45,7 @@
     "exit_pricing": {
         "price_side": "ask",
         "use_order_book": "true",
-        "order_book_top": 1,
-        "unfilledtimeout": 1
+        "order_book_top": 1
     },
     "exchange": {
         "name": "binance",
@@ -278,8 +277,7 @@
     "initial_state": "running",
     "force_entry_enable": "true",
     "internals": {
-        "process_throttle_secs": 5,
-        "heartbeat_interval": 60
+        "process_throttle_secs": 5
     },
     "disable_dataframe_checks": "false",
     "strategy": "",
@@ -332,8 +330,7 @@
     "exit_pricing": {
         "price_side": "ask",
         "use_order_book": "true",
-        "order_book_top": 1,
-        "unfilledtimeout": 1
+        "order_book_top": 1
     },
     "exchange": {
         "name": "binance",
@@ -475,8 +472,7 @@
     "initial_state": "running",
     "force_entry_enable": "true",
     "internals": {
-        "process_throttle_secs": 5,
-        "heartbeat_interval": 60
+        "process_throttle_secs": 5
     },
     "disable_dataframe_checks": "false",
     "strategy": "",
@@ -529,8 +525,7 @@
     "exit_pricing": {
         "price_side": "ask",
         "use_order_book": "true",
-        "order_book_top": 1,
-        "unfilledtimeout": 1
+        "order_book_top": 1
     },
     "exchange": {
         "name": "binance",
@@ -614,8 +609,7 @@
     "initial_state": "running",
     "force_entry_enable": "true",
     "internals": {
-        "process_throttle_secs": 5,
-        "heartbeat_interval": 60
+        "process_throttle_secs": 5
     },
     "disable_dataframe_checks": "false",
     "strategy": "",
@@ -667,8 +661,7 @@
     "exit_pricing": {
         "price_side": "ask",
         "use_order_book": "true",
-        "order_book_top": 1,
-        "unfilledtimeout": 1
+        "order_book_top": 1
     },
     "exchange": {
         "name": "binance",
@@ -814,8 +807,7 @@
     "initial_state": "running",
     "force_entry_enable": "true",
     "internals": {
-        "process_throttle_secs": 5,
-        "heartbeat_interval": 60
+        "process_throttle_secs": 5
     },
     "disable_dataframe_checks": "false",
     "strategy": "",
@@ -876,8 +868,7 @@
     "exit_pricing": {
         "price_side": "same",
         "use_order_book": "true",
-        "order_book_top": 1,
-        "unfilledtimeout": 1
+        "order_book_top": 1
     },
     "exchange": {
         "name": "binance",
@@ -993,8 +984,7 @@
     "initial_state": "running",
     "force_entry_enable": "true",
     "internals": {
-        "process_throttle_secs": 5,
-        "heartbeat_interval": 60
+        "process_throttle_secs": 5
     },
     "disable_dataframe_checks": "false",
     "strategy": "",
@@ -1048,8 +1038,7 @@
     "exit_pricing": {
         "price_side": "ask",
         "use_order_book": "true",
-        "order_book_top": 1,
-        "unfilledtimeout": 1
+        "order_book_top": 1
     },
     "exchange": {
         "name": "binance",
@@ -1198,8 +1187,7 @@
     "initial_state": "running",
     "force_entry_enable": "true",
     "internals": {
-        "process_throttle_secs": 5,
-        "heartbeat_interval": 60
+        "process_throttle_secs": 5
     },
     "disable_dataframe_checks": "false",
     "strategy": "",
@@ -1238,8 +1226,8 @@
         "use_order_book": "true",
         "order_book_top": 1,
         "check_depth_of_market": {
-            "enabled": "true",
-            "bids_to_ask_delta": 0
+            "enabled": "false",
+            "bids_to_ask_delta": 1
         }
     },
     "order_types": {
@@ -1260,8 +1248,7 @@
     "exit_pricing": {
         "price_side": "same",
         "use_order_book": "true",
-        "order_book_top": 1,
-        "unfilledtimeout": 1
+        "order_book_top": 1
     },
     "exchange": {
         "name": "gateio",
@@ -1736,8 +1723,7 @@
     "initial_state": "running",
     "force_entry_enable": "true",
     "internals": {
-        "process_throttle_secs": 5,
-        "heartbeat_interval": 60
+        "process_throttle_secs": 5
     },
     "disable_dataframe_checks": "false",
     "strategy": "",
@@ -1798,8 +1784,7 @@
     "exit_pricing": {
         "price_side": "same",
         "use_order_book": "true",
-        "order_book_top": 1,
-        "unfilledtimeout": 1
+        "order_book_top": 1
     },
     "exchange": {
         "name": "okx",
@@ -2039,8 +2024,7 @@
     "initial_state": "running",
     "force_entry_enable": "true",
     "internals": {
-        "process_throttle_secs": 5,
-        "heartbeat_interval": 60
+        "process_throttle_secs": 5
     },
     "disable_dataframe_checks": "false",
     "strategy": "",
@@ -2101,8 +2085,7 @@
     "exit_pricing": {
         "price_side": "same",
         "use_order_book": "true",
-        "order_book_top": 1,
-        "unfilledtimeout": 1
+        "order_book_top": 1
     },
     "exchange": {
         "name": "bybit",
@@ -2534,8 +2517,7 @@
     "initial_state": "running",
     "force_entry_enable": "true",
     "internals": {
-        "process_throttle_secs": 5,
-        "heartbeat_interval": 60
+        "process_throttle_secs": 5
     },
     "disable_dataframe_checks": "false",
     "strategy": "",
