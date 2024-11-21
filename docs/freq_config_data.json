@@ -1676,6 +1676,10 @@
     "pairlists": [
         {"method": "StaticPairList"},
         {"method": "PriceFilter", "low_price_ratio": 0.2, "min_price": 0.0000003},
+        {
+            "method": "PerformanceFilter",
+            "minutes": 0
+        },
         {"method": "PriceFilter"}
     ],
     "edge": {
