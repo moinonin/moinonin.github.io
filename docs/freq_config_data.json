@@ -832,7 +832,8 @@
     "ignore_buying_expired_candle_after": 120,
     "position_adjustment_enable": "true",
     "trading_mode": "futures",
-    "margin_mode": "isolated",
+    "margin_mode": "cross",
+    "proxy_coin": "BNFCR",
     "futures_funding_rate": 0,
     "unfilledtimeout": {
         "entry": 8,
